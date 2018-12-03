@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="5546b1b4-0d58-4a5b-b297-2b37c8fc167b" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/../es_book/src/main/java/com/laver/es_book/MyConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../medical/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../medical/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../medical/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../medical/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../test/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../test/.idea/workspace.xml" afterDir="false" />
@@ -28,44 +29,31 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="JavaScript-modules-diagram/C:/Users/L/Desktop/IdeaProject/design_pattern/src/main/java/com/laver/design/principle/openclose" value="1" />
-          <entry key="java" value="4" />
+          <entry key="dependenceinversion" value="1" />
+          <entry key="java" value="10" />
           <entry key="openclose" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="4" />
-          <entry key="UML" value="2" />
+          <entry key="JAVA" value="10" />
+          <entry key="UML" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="255" />
+          <entry key="java" value="566" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="255" />
+          <entry key="JAVA" value="566" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/laver/design/principle/openclose/JavaCourse.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="6" column="25" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/laver/design/principle/openclose/JavaDiscountCourse.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -84,15 +72,6 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/laver/design/principle/openclose/ICourse.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="7" selection-start-line="7" selection-end-line="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/laver/design/principle/openclose/Test.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="108">
@@ -109,7 +88,7 @@
               <OriginalElement>com.laver.design.principle.openclose</OriginalElement>
               <nodes>
                 <node x="0.0" y="322.0">com.laver.design.principle.openclose.JavaDiscountCourse</node>
-                <node x="-112.44444444444446" y="473.33333333333326">com.laver.design.principle.openclose.Test</node>
+                <node x="372.0" y="0.0">com.laver.design.principle.openclose.Test</node>
                 <node x="100.0" y="0.0">com.laver.design.principle.openclose.ICourse</node>
                 <node x="25.0" y="149.0">com.laver.design.principle.openclose.JavaCourse</node>
               </nodes>
@@ -141,21 +120,113 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/laver/design/principle/dependenceinversion/Laver.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="243">
+              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+              <folding>
+                <element signature="e#132#133#0" expanded="true" />
+                <element signature="e#169#170#0" expanded="true" />
+                <element signature="e#302#303#0" expanded="true" />
+                <element signature="e#340#341#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="uml://JavaScript-modules-diagram/C:/Users/L/Desktop/IdeaProject/design_pattern/src/main/java/com/laver/design/principle/openclose">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/laver/design/principle/dependenceinversion/ICourse.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="81">
+              <caret line="3" column="23" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/laver/design/principle/dependenceinversion/JavaCourse.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="189">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
+              <folding>
+                <element signature="e#147#148#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/laver/design/principle/dependenceinversion/FECourse.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="6" column="48" selection-start-line="6" selection-start-column="48" selection-end-line="6" selection-end-column="48" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/laver/design/principle/dependenceinversion/Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="589">
+              <caret line="22" column="33" selection-start-line="22" selection-start-column="33" selection-end-line="22" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="uml://JAVA/com.laver.design.principle.dependenceinversion">
           <provider selected="true" editor-type-id="UmlEditorProvider">
             <state>
-              <ID>JavaScript-modules-diagram</ID>
-              <OriginalElement>$PROJECT_DIR$/src/main/java/com/laver/design/principle/openclose</OriginalElement>
-              <nodes />
+              <ID>JAVA</ID>
+              <OriginalElement>com.laver.design.principle.dependenceinversion</OriginalElement>
+              <nodes>
+                <node x="1.0" y="305.0">com.laver.design.principle.dependenceinversion.Test</node>
+                <node x="0.0" y="103.0">com.laver.design.principle.dependenceinversion.FECourse</node>
+                <node x="394.0" y="103.0">com.laver.design.principle.dependenceinversion.PythonCourse</node>
+                <node x="0.0" y="201.0">com.laver.design.principle.dependenceinversion.Laver</node>
+                <node x="197.0" y="0.0">com.laver.design.principle.dependenceinversion.ICourse</node>
+                <node x="197.0" y="103.0">com.laver.design.principle.dependenceinversion.JavaCourse</node>
+              </nodes>
               <notes />
-              <edges />
-              <settings layout="Hierarchic Group" zoom="1.0" x="240.0" y="240.0" />
+              <edges>
+                <edge source="com.laver.design.principle.dependenceinversion.JavaCourse" target="com.laver.design.principle.dependenceinversion.ICourse">
+                  <point x="0.0" y="-26.5" />
+                  <point x="0.0" y="26.5" />
+                </edge>
+                <edge source="com.laver.design.principle.dependenceinversion.FECourse" target="com.laver.design.principle.dependenceinversion.ICourse">
+                  <point x="0.0" y="-26.5" />
+                  <point x="88.5" y="78.0" />
+                  <point x="226.5" y="78.0" />
+                  <point x="-59.0" y="26.5" />
+                </edge>
+                <edge source="com.laver.design.principle.dependenceinversion.PythonCourse" target="com.laver.design.principle.dependenceinversion.ICourse">
+                  <point x="0.0" y="-26.5" />
+                  <point x="482.5" y="78.0" />
+                  <point x="344.5" y="78.0" />
+                  <point x="59.0" y="26.5" />
+                </edge>
+              </edges>
+              <settings layout="Hierarchic Group" zoom="1.0" x="-343.0" y="12.0" />
               <SelectedNodes />
               <Categories>
-                <Category>All</Category>
+                <Category>Fields</Category>
+                <Category>Constructors</Category>
+                <Category>Methods</Category>
+                <Category>Properties</Category>
+                <Category>Inner Classes</Category>
               </Categories>
-              <VISIBILITY>Details</VISIBILITY>
+              <SCOPE>All</SCOPE>
+              <VISIBILITY>private</VISIBILITY>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/laver/design/principle/dependenceinversion/PythonCourse.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="6" column="52" selection-start-line="6" selection-start-column="52" selection-end-line="6" selection-end-column="52" />
             </state>
           </provider>
         </entry>
@@ -165,12 +236,13 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="projectSyncType">
@@ -187,6 +259,12 @@
         <option value="$PROJECT_DIR$/src/main/java/com/laver/design/principle/openclose/JavaCourse.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/laver/design/principle/openclose/JavaDiscountCourse.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/laver/design/principle/openclose/Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/laver/design/principle/dependenceinversion/ICourse.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/laver/design/principle/dependenceinversion/JavaCourse.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/laver/design/principle/dependenceinversion/FECourse.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/laver/design/principle/dependenceinversion/PythonCourse.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/laver/design/principle/dependenceinversion/Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/laver/design/principle/dependenceinversion/Laver.java" />
       </list>
     </option>
   </component>
@@ -207,7 +285,7 @@
     <option name="jreName" value="1.8" />
     <option name="vmOptions" value="-DarchetypeCatalog=internal" />
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="174" />
     <option name="y" value="262" />
     <option name="width" value="1296" />
@@ -295,7 +373,7 @@
               <item name="laver" type="462c0819:PsiDirectoryNode" />
               <item name="design" type="462c0819:PsiDirectoryNode" />
               <item name="principle" type="462c0819:PsiDirectoryNode" />
-              <item name="openclose" type="462c0819:PsiDirectoryNode" />
+              <item name="dependenceinversion" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -307,13 +385,18 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543849159142" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543851347043" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.49056605" />
     <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.runner" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.laver.design.principle.dependenceinversion" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -327,9 +410,23 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Test (1)">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.laver.design.principle.dependenceinversion.Test" />
+      <module name="design_pattern" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.laver.design.principle.dependenceinversion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -377,8 +474,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.Test" />
+      <item itemvalue="Application.Test (1)" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test (1)" />
         <item itemvalue="Application.Test" />
       </list>
     </recent_temporary>
@@ -393,15 +495,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1543847340906</updated>
-      <workItem from="1543847342456" duration="1797000" />
+      <workItem from="1543847342456" duration="4166000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1797000" />
+    <option name="totallyTimeSpent" value="4166000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Web" side_tool="true" />
@@ -421,7 +523,7 @@
       <window_info anchor="bottom" id="Terminal" order="2" weight="0.25950053" />
       <window_info anchor="bottom" id="Message" order="3" />
       <window_info anchor="bottom" id="Find" order="4" />
-      <window_info anchor="bottom" id="Run" order="5" visible="true" weight="0.12269273" />
+      <window_info anchor="bottom" id="Run" order="5" visible="true" weight="0.247557" />
       <window_info anchor="bottom" id="Debug" order="6" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
@@ -472,6 +574,35 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/laver/design/principle/openclose/JavaCourse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="6" column="25" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/laver/design/principle/openclose/JavaDiscountCourse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" column="27" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
+          <folding>
+            <element signature="e#169#170#0" expanded="true" />
+            <element signature="e#207#208#0" expanded="true" />
+            <element signature="e#245#246#0" expanded="true" />
+            <element signature="e#283#284#0" expanded="true" />
+            <element signature="e#258#259#0" expanded="true" />
+            <element signature="e#301#302#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/laver/design/principle/openclose/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" column="63" selection-start-line="4" selection-start-column="63" selection-end-line="4" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
     <entry file="uml://JAVA/com.laver.design.principle.openclose">
       <provider selected="true" editor-type-id="UmlEditorProvider">
         <state>
@@ -479,7 +610,7 @@
           <OriginalElement>com.laver.design.principle.openclose</OriginalElement>
           <nodes>
             <node x="0.0" y="322.0">com.laver.design.principle.openclose.JavaDiscountCourse</node>
-            <node x="-112.44444444444446" y="473.33333333333326">com.laver.design.principle.openclose.Test</node>
+            <node x="372.0" y="0.0">com.laver.design.principle.openclose.Test</node>
             <node x="100.0" y="0.0">com.laver.design.principle.openclose.ICourse</node>
             <node x="25.0" y="149.0">com.laver.design.principle.openclose.JavaCourse</node>
           </nodes>
@@ -510,32 +641,100 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/laver/design/principle/openclose/JavaCourse.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/laver/design/principle/dependenceinversion/FECourse.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="6" column="25" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
+        <state relative-caret-position="135">
+          <caret line="6" column="48" selection-start-line="6" selection-start-column="48" selection-end-line="6" selection-end-column="48" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/laver/design/principle/openclose/JavaDiscountCourse.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/laver/design/principle/dependenceinversion/JavaCourse.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="9" column="27" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
+        <state relative-caret-position="189">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
           <folding>
-            <element signature="e#169#170#0" expanded="true" />
-            <element signature="e#207#208#0" expanded="true" />
-            <element signature="e#245#246#0" expanded="true" />
-            <element signature="e#283#284#0" expanded="true" />
-            <element signature="e#258#259#0" expanded="true" />
-            <element signature="e#301#302#0" expanded="true" />
+            <element signature="e#147#148#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/laver/design/principle/openclose/Test.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/laver/design/principle/dependenceinversion/PythonCourse.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="4" column="63" selection-start-line="4" selection-start-column="63" selection-end-line="4" selection-end-column="63" />
+        <state relative-caret-position="135">
+          <caret line="6" column="52" selection-start-line="6" selection-start-column="52" selection-end-line="6" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/laver/design/principle/dependenceinversion/ICourse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="23" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/laver/design/principle/dependenceinversion/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="589">
+          <caret line="22" column="33" selection-start-line="22" selection-start-column="33" selection-end-line="22" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.laver.design.principle.dependenceinversion">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.laver.design.principle.dependenceinversion</OriginalElement>
+          <nodes>
+            <node x="1.0" y="305.0">com.laver.design.principle.dependenceinversion.Test</node>
+            <node x="0.0" y="103.0">com.laver.design.principle.dependenceinversion.FECourse</node>
+            <node x="394.0" y="103.0">com.laver.design.principle.dependenceinversion.PythonCourse</node>
+            <node x="0.0" y="201.0">com.laver.design.principle.dependenceinversion.Laver</node>
+            <node x="197.0" y="0.0">com.laver.design.principle.dependenceinversion.ICourse</node>
+            <node x="197.0" y="103.0">com.laver.design.principle.dependenceinversion.JavaCourse</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="com.laver.design.principle.dependenceinversion.JavaCourse" target="com.laver.design.principle.dependenceinversion.ICourse">
+              <point x="0.0" y="-26.5" />
+              <point x="0.0" y="26.5" />
+            </edge>
+            <edge source="com.laver.design.principle.dependenceinversion.FECourse" target="com.laver.design.principle.dependenceinversion.ICourse">
+              <point x="0.0" y="-26.5" />
+              <point x="88.5" y="78.0" />
+              <point x="226.5" y="78.0" />
+              <point x="-59.0" y="26.5" />
+            </edge>
+            <edge source="com.laver.design.principle.dependenceinversion.PythonCourse" target="com.laver.design.principle.dependenceinversion.ICourse">
+              <point x="0.0" y="-26.5" />
+              <point x="482.5" y="78.0" />
+              <point x="344.5" y="78.0" />
+              <point x="59.0" y="26.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="-343.0" y="12.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+            <Category>Properties</Category>
+            <Category>Inner Classes</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/laver/design/principle/dependenceinversion/Laver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="e#132#133#0" expanded="true" />
+            <element signature="e#169#170#0" expanded="true" />
+            <element signature="e#302#303#0" expanded="true" />
+            <element signature="e#340#341#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
