@@ -23,148 +23,40 @@
         <counts>
           <entry key="project.closed" value="1" />
           <entry key="project.open.time.1" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.open.time.27" value="1" />
+          <entry key="project.opened" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="JavaScript-modules-diagram/C:/Users/L/Desktop/IdeaProject/design_pattern/src/main/java/com/laver/design/principle/openclose" value="1" />
           <entry key="dependenceinversion" value="1" />
-          <entry key="java" value="19" />
+          <entry key="interfacesegregation" value="1" />
+          <entry key="java" value="25" />
           <entry key="openclose" value="1" />
           <entry key="singleresponsibility" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="19" />
-          <entry key="UML" value="4" />
+          <entry key="JAVA" value="25" />
+          <entry key="UML" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="1008" />
+          <entry key="java" value="1082" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="1008" />
+          <entry key="JAVA" value="1082" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/laver/design/principle/singleresponsibility/Bird.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="10" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/laver/design/principle/singleresponsibility/FlyBird.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="5" selection-start-line="5" selection-end-line="5" />
-              <folding>
-                <element signature="e#126#127#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/laver/design/principle/singleresponsibility/WalkBird.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="5" selection-start-line="5" selection-end-line="5" />
-              <folding>
-                <element signature="e#127#128#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/laver/design/principle/singleresponsibility/Test.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
-              <caret line="12" column="33" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="uml://JAVA/com.laver.design.principle.singleresponsibility">
-          <provider selected="true" editor-type-id="UmlEditorProvider">
-            <state>
-              <ID>JAVA</ID>
-              <OriginalElement>com.laver.design.principle.singleresponsibility</OriginalElement>
-              <nodes>
-                <node x="255.0" y="0.0">com.laver.design.principle.singleresponsibility.FlyBird</node>
-                <node x="0.0" y="0.0">com.laver.design.principle.singleresponsibility.WalkBird</node>
-                <node x="285.0" y="113.0">com.laver.design.principle.singleresponsibility.Test</node>
-                <node x="510.0" y="0.0">com.laver.design.principle.singleresponsibility.Bird</node>
-              </nodes>
-              <notes />
-              <edges>
-                <edge source="com.laver.design.principle.singleresponsibility.Test" target="com.laver.design.principle.singleresponsibility.FlyBird">
-                  <point x="14.583333333333314" y="-26.5" />
-                  <point x="387.0833333333333" y="73.0" />
-                  <point x="431.25" y="73.0" />
-                  <point x="58.75" y="26.5" />
-                </edge>
-                <edge source="com.laver.design.principle.singleresponsibility.Test" target="com.laver.design.principle.singleresponsibility.WalkBird">
-                  <point x="-72.91666666666674" y="-26.5" />
-                  <point x="299.58333333333326" y="93.0" />
-                  <point x="58.75" y="93.0" />
-                  <point x="-58.75" y="26.5" />
-                </edge>
-                <edge source="com.laver.design.principle.singleresponsibility.Test" target="com.laver.design.principle.singleresponsibility.Bird">
-                  <point x="43.75" y="-26.5" />
-                  <point x="416.25" y="83.0" />
-                  <point x="568.75" y="83.0" />
-                  <point x="-58.75" y="26.5" />
-                </edge>
-              </edges>
-              <settings layout="Hierarchic Group" zoom="1.0" x="-366.5" y="9.5" />
-              <SelectedNodes>
-                <node>com.laver.design.principle.singleresponsibility.FlyBird</node>
-              </SelectedNodes>
-              <Categories>
-                <Category>Fields</Category>
-                <Category>Constructors</Category>
-                <Category>Methods</Category>
-                <Category>Properties</Category>
-                <Category>Inner Classes</Category>
-              </Categories>
-              <SCOPE>All</SCOPE>
-              <VISIBILITY>private</VISIBILITY>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/laver/design/principle/singleresponsibility/ICourse.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="81">
-              <caret line="3" selection-start-line="3" selection-end-line="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/laver/design/principle/singleresponsibility/ICourseManager.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/laver/design/principle/singleresponsibility/ICourseContent.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -177,7 +69,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/laver/design/principle/singleresponsibility/CourseImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
+            <state relative-caret-position="108">
               <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="20" />
               <folding>
                 <element signature="e#173#174#0" expanded="true" />
@@ -189,17 +81,106 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/laver/design/principle/singleresponsibility/Method.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="486">
+            <state relative-caret-position="378">
               <caret line="18" column="31" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
-              <folding>
-                <element signature="e#273#274#0" expanded="true" />
-                <element signature="e#307#308#0" expanded="true" />
-                <element signature="e#372#373#0" expanded="true" />
-                <element signature="e#406#407#0" expanded="true" />
-              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/laver/design/principle/interfacesegregation/IAnimalAction.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="81">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/laver/design/principle/interfacesegregation/Dog.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="54">
+              <caret line="2" column="30" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/laver/design/principle/interfacesegregation/Bird.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="uml://JAVA/com.laver.design.principle.interfacesegregation">
+          <provider selected="true" editor-type-id="UmlEditorProvider">
+            <state>
+              <ID>JAVA</ID>
+              <OriginalElement>com.laver.design.principle.interfacesegregation</OriginalElement>
+              <nodes>
+                <node x="0.0" y="149.0">com.laver.design.principle.interfacesegregation.Bird</node>
+                <node x="77.0" y="0.0">com.laver.design.principle.interfacesegregation.IAnimalAction</node>
+                <node x="154.0" y="149.0">com.laver.design.principle.interfacesegregation.Dog</node>
+              </nodes>
+              <notes />
+              <edges>
+                <edge source="com.laver.design.principle.interfacesegregation.Bird" target="com.laver.design.principle.interfacesegregation.IAnimalAction">
+                  <point x="0.0" y="-49.5" />
+                  <point x="67.0" y="124.0" />
+                  <point x="110.5" y="124.0" />
+                  <point x="-33.5" y="49.5" />
+                </edge>
+                <edge source="com.laver.design.principle.interfacesegregation.Dog" target="com.laver.design.principle.interfacesegregation.IAnimalAction">
+                  <point x="0.0" y="-49.5" />
+                  <point x="221.0" y="124.0" />
+                  <point x="177.5" y="124.0" />
+                  <point x="33.5" y="49.5" />
+                </edge>
+              </edges>
+              <settings layout="Hierarchic Group" zoom="1.0" x="-376.0" y="-139.5" />
+              <SelectedNodes />
+              <Categories>
+                <Category>Fields</Category>
+                <Category>Constructors</Category>
+                <Category>Methods</Category>
+                <Category>Inner Classes</Category>
+                <Category>Properties</Category>
+              </Categories>
+              <SCOPE>All</SCOPE>
+              <VISIBILITY>private</VISIBILITY>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/laver/design/principle/interfacesegregation/IFlyAnimalAction.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="81">
+              <caret line="3" column="15" selection-start-line="3" selection-start-column="15" selection-end-line="3" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/laver/design/principle/interfacesegregation/IEatAnimalAction.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="81">
+              <caret line="3" column="12" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/laver/design/principle/interfacesegregation/ISwimAnimalAction.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="81">
+              <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -209,8 +190,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -247,6 +228,12 @@
         <option value="$PROJECT_DIR$/src/main/java/com/laver/design/principle/singleresponsibility/ICourseContent.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/laver/design/principle/singleresponsibility/CourseImpl.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/laver/design/principle/singleresponsibility/Method.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/laver/design/principle/interfacesegregation/Bird.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/laver/design/principle/interfacesegregation/IFlyAnimalAction.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/laver/design/principle/interfacesegregation/Dog.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/laver/design/principle/interfacesegregation/IEatAnimalAction.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/laver/design/principle/interfacesegregation/ISwimAnimalAction.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/laver/design/principle/interfacesegregation/IAnimalAction.java" />
       </list>
     </option>
   </component>
@@ -268,8 +255,8 @@
     <option name="vmOptions" value="-DarchetypeCatalog=internal" />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="174" />
-    <option name="y" value="262" />
+    <option name="x" value="288" />
+    <option name="y" value="126" />
     <option name="width" value="1296" />
     <option name="height" value="1000" />
   </component>
@@ -355,7 +342,7 @@
               <item name="laver" type="462c0819:PsiDirectoryNode" />
               <item name="design" type="462c0819:PsiDirectoryNode" />
               <item name="principle" type="462c0819:PsiDirectoryNode" />
-              <item name="singleresponsibility" type="462c0819:PsiDirectoryNode" />
+              <item name="interfacesegregation" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -367,7 +354,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543852813286" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543924595238" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
@@ -377,6 +364,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.laver.design.principle.interfacesegregation" />
       <recent name="com.laver.design.principle.singleresponsibility" />
       <recent name="com.laver.design.principle.dependenceinversion" />
     </key>
@@ -495,28 +483,26 @@
       <option name="presentableId" value="Default" />
       <updated>1543847340906</updated>
       <workItem from="1543847342456" duration="5737000" />
+      <workItem from="1543922684161" duration="1064000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5737000" />
+    <option name="totallyTimeSpent" value="6801000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Web" side_tool="true" />
       <window_info id="Nl-Palette" order="0" />
       <window_info id="Capture Tool" order="1" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
       <window_info id="Image Layers" order="4" />
       <window_info id="Favorites" order="5" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="6" visible="true" weight="0.25266525" />
+      <window_info active="true" content_ui="combo" id="Project" order="6" visible="true" weight="0.2553305" />
       <window_info id="Structure" order="7" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Java Enterprise" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Messages" weight="0.330076" />
+      <window_info id="Web" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Event Log" order="0" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="1" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="2" weight="0.25950053" />
@@ -527,6 +513,9 @@
       <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.330076" />
+      <window_info anchor="bottom" id="Java Enterprise" order="11" />
+      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
       <window_info anchor="right" id="Palette" order="0" />
       <window_info anchor="right" id="Maven Projects" order="1" />
       <window_info anchor="right" id="Properties" order="2" />
@@ -562,6 +551,7 @@
           <Categories>
             <Category>All</Category>
           </Categories>
+          <SCOPE>All</SCOPE>
           <VISIBILITY>Details</VISIBILITY>
         </state>
       </provider>
@@ -584,14 +574,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="243">
           <caret line="9" column="27" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
-          <folding>
-            <element signature="e#169#170#0" expanded="true" />
-            <element signature="e#207#208#0" expanded="true" />
-            <element signature="e#245#246#0" expanded="true" />
-            <element signature="e#283#284#0" expanded="true" />
-            <element signature="e#258#259#0" expanded="true" />
-            <element signature="e#301#302#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -624,15 +606,15 @@
               <point x="0.0" y="61.5" />
             </edge>
           </edges>
-          <settings layout="Hierarchic Group" zoom="1.1" x="-139.20202020202018" y="143.54545454545456" />
+          <settings layout="Hierarchic Group" zoom="1.1" x="-139.0" y="144.0" />
           <SelectedNodes>
             <node>com.laver.design.principle.openclose.Test</node>
           </SelectedNodes>
           <Categories>
-            <Category>Properties</Category>
             <Category>Fields</Category>
             <Category>Constructors</Category>
             <Category>Methods</Category>
+            <Category>Properties</Category>
             <Category>Inner Classes</Category>
           </Categories>
           <SCOPE>All</SCOPE>
@@ -651,9 +633,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
           <caret line="7" selection-start-line="7" selection-end-line="7" />
-          <folding>
-            <element signature="e#147#148#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -728,12 +707,54 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="243">
           <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-          <folding>
-            <element signature="e#132#133#0" expanded="true" />
-            <element signature="e#169#170#0" expanded="true" />
-            <element signature="e#302#303#0" expanded="true" />
-            <element signature="e#340#341#0" expanded="true" />
-          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.laver.design.principle.singleresponsibility">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.laver.design.principle.singleresponsibility</OriginalElement>
+          <nodes>
+            <node x="255.0" y="0.0">com.laver.design.principle.singleresponsibility.FlyBird</node>
+            <node x="0.0" y="0.0">com.laver.design.principle.singleresponsibility.WalkBird</node>
+            <node x="285.0" y="113.0">com.laver.design.principle.singleresponsibility.Test</node>
+            <node x="510.0" y="0.0">com.laver.design.principle.singleresponsibility.Bird</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="com.laver.design.principle.singleresponsibility.Test" target="com.laver.design.principle.singleresponsibility.FlyBird">
+              <point x="14.583333333333314" y="-26.5" />
+              <point x="387.0833333333333" y="73.0" />
+              <point x="431.25" y="73.0" />
+              <point x="58.75" y="26.5" />
+            </edge>
+            <edge source="com.laver.design.principle.singleresponsibility.Test" target="com.laver.design.principle.singleresponsibility.WalkBird">
+              <point x="-72.91666666666674" y="-26.5" />
+              <point x="299.58333333333326" y="93.0" />
+              <point x="58.75" y="93.0" />
+              <point x="-58.75" y="26.5" />
+            </edge>
+            <edge source="com.laver.design.principle.singleresponsibility.Test" target="com.laver.design.principle.singleresponsibility.Bird">
+              <point x="43.75" y="-26.5" />
+              <point x="416.25" y="83.0" />
+              <point x="568.75" y="83.0" />
+              <point x="-58.75" y="26.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="-366.0" y="10.0" />
+          <SelectedNodes>
+            <node>com.laver.design.principle.singleresponsibility.FlyBird</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+            <Category>Properties</Category>
+            <Category>Inner Classes</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
         </state>
       </provider>
     </entry>
@@ -771,51 +792,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="uml://JAVA/com.laver.design.principle.singleresponsibility">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JAVA</ID>
-          <OriginalElement>com.laver.design.principle.singleresponsibility</OriginalElement>
-          <nodes>
-            <node x="255.0" y="0.0">com.laver.design.principle.singleresponsibility.FlyBird</node>
-            <node x="0.0" y="0.0">com.laver.design.principle.singleresponsibility.WalkBird</node>
-            <node x="285.0" y="113.0">com.laver.design.principle.singleresponsibility.Test</node>
-            <node x="510.0" y="0.0">com.laver.design.principle.singleresponsibility.Bird</node>
-          </nodes>
-          <notes />
-          <edges>
-            <edge source="com.laver.design.principle.singleresponsibility.Test" target="com.laver.design.principle.singleresponsibility.FlyBird">
-              <point x="14.583333333333314" y="-26.5" />
-              <point x="387.0833333333333" y="73.0" />
-              <point x="431.25" y="73.0" />
-              <point x="58.75" y="26.5" />
-            </edge>
-            <edge source="com.laver.design.principle.singleresponsibility.Test" target="com.laver.design.principle.singleresponsibility.WalkBird">
-              <point x="-72.91666666666674" y="-26.5" />
-              <point x="299.58333333333326" y="93.0" />
-              <point x="58.75" y="93.0" />
-              <point x="-58.75" y="26.5" />
-            </edge>
-            <edge source="com.laver.design.principle.singleresponsibility.Test" target="com.laver.design.principle.singleresponsibility.Bird">
-              <point x="43.75" y="-26.5" />
-              <point x="416.25" y="83.0" />
-              <point x="568.75" y="83.0" />
-              <point x="-58.75" y="26.5" />
-            </edge>
-          </edges>
-          <settings layout="Hierarchic Group" zoom="1.0" x="-366.5" y="9.5" />
-          <SelectedNodes>
-            <node>com.laver.design.principle.singleresponsibility.FlyBird</node>
-          </SelectedNodes>
-          <Categories>
-            <Category>Fields</Category>
-            <Category>Constructors</Category>
-            <Category>Methods</Category>
-            <Category>Properties</Category>
-            <Category>Inner Classes</Category>
-          </Categories>
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>private</VISIBILITY>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/laver/design/principle/singleresponsibility/ICourse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
@@ -823,13 +803,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
           <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/laver/design/principle/singleresponsibility/ICourse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="81">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
@@ -842,7 +815,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/laver/design/principle/singleresponsibility/CourseImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
+        <state relative-caret-position="108">
           <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="20" />
           <folding>
             <element signature="e#173#174#0" expanded="true" />
@@ -855,14 +828,89 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/laver/design/principle/singleresponsibility/Method.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="486">
+        <state relative-caret-position="378">
           <caret line="18" column="31" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
-          <folding>
-            <element signature="e#273#274#0" expanded="true" />
-            <element signature="e#307#308#0" expanded="true" />
-            <element signature="e#372#373#0" expanded="true" />
-            <element signature="e#406#407#0" expanded="true" />
-          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/laver/design/principle/interfacesegregation/Bird.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.laver.design.principle.interfacesegregation">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.laver.design.principle.interfacesegregation</OriginalElement>
+          <nodes>
+            <node x="0.0" y="149.0">com.laver.design.principle.interfacesegregation.Bird</node>
+            <node x="77.0" y="0.0">com.laver.design.principle.interfacesegregation.IAnimalAction</node>
+            <node x="154.0" y="149.0">com.laver.design.principle.interfacesegregation.Dog</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="com.laver.design.principle.interfacesegregation.Bird" target="com.laver.design.principle.interfacesegregation.IAnimalAction">
+              <point x="0.0" y="-49.5" />
+              <point x="67.0" y="124.0" />
+              <point x="110.5" y="124.0" />
+              <point x="-33.5" y="49.5" />
+            </edge>
+            <edge source="com.laver.design.principle.interfacesegregation.Dog" target="com.laver.design.principle.interfacesegregation.IAnimalAction">
+              <point x="0.0" y="-49.5" />
+              <point x="221.0" y="124.0" />
+              <point x="177.5" y="124.0" />
+              <point x="33.5" y="49.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="-376.0" y="-139.5" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+            <Category>Inner Classes</Category>
+            <Category>Properties</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/laver/design/principle/interfacesegregation/ISwimAnimalAction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/laver/design/principle/interfacesegregation/IFlyAnimalAction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="15" selection-start-line="3" selection-start-column="15" selection-end-line="3" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/laver/design/principle/interfacesegregation/IEatAnimalAction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="12" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/laver/design/principle/interfacesegregation/IAnimalAction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/laver/design/principle/interfacesegregation/Dog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="30" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
         </state>
       </provider>
     </entry>
