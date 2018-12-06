@@ -4,6 +4,8 @@
     <list default="true" id="5546b1b4-0d58-4a5b-b297-2b37c8fc167b" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/../es_book/src/main/java/com/laver/es_book/MyConfig.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/laver/design/pattren/creational/builder/v2/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/laver/design/pattren/creational/builder/v2/Test.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../medical/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../medical/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../medical/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../medical/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../test/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../test/.idea/workspace.xml" afterDir="false" />
@@ -22,12 +24,13 @@
     <session id="-1404032481">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
+          <entry key="project.closed" value="4" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.13" value="1" />
           <entry key="project.open.time.27" value="1" />
-          <entry key="project.opened" value="4" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.opened" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -38,307 +41,110 @@
           <entry key="dependenceinversion" value="1" />
           <entry key="factorymethod" value="1" />
           <entry key="interfacesegregation" value="1" />
-          <entry key="java" value="79" />
+          <entry key="java" value="96" />
           <entry key="openclose" value="1" />
           <entry key="singleresponsibility" value="1" />
-          <entry key="xml" value="1" />
+          <entry key="xml" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="79" />
+          <entry key="JAVA" value="96" />
           <entry key="UML" value="8" />
-          <entry key="XML" value="1" />
+          <entry key="XML" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="3348" />
-          <entry key="xml" value="3" />
+          <entry key="java" value="5230" />
+          <entry key="xml" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="3348" />
-          <entry key="XML" value="3" />
+          <entry key="JAVA" value="5230" />
+          <entry key="XML" value="4" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/laver/design/pattren/creational/abstractfactory/CourseFactory.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/laver/design/pattren/creational/singleton/Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="54">
-              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/laver/design/pattren/creational/abstractfactory/Test.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="8" column="30" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="uml://JAVA/com.laver.design.pattren.creational.factorymethod">
-          <provider selected="true" editor-type-id="UmlEditorProvider">
-            <state>
-              <ID>JAVA</ID>
-              <OriginalElement>com.laver.design.pattren.creational.factorymethod</OriginalElement>
-              <nodes>
-                <node x="0.0" y="123.0">com.laver.design.pattren.creational.factorymethod.PythonVideo</node>
-                <node x="494.0" y="123.0">com.laver.design.pattren.creational.factorymethod.JavaVideo</node>
-                <node x="68.28611111111115" y="236.0">com.laver.design.pattren.creational.factorymethod.PythonVideoFactory</node>
-                <node x="350.0" y="123.0">com.laver.design.pattren.creational.factorymethod.VideoFactory</node>
-                <node x="339.0909090909091" y="379.9090909090909">com.laver.design.pattren.creational.factorymethod.Test</node>
-                <node x="512.6472222222222" y="236.0">com.laver.design.pattren.creational.factorymethod.JavaVideoFactory</node>
-                <node x="253.7861111111111" y="236.0">com.laver.design.pattren.creational.factorymethod.FEVideoFactory</node>
-                <node x="299.68333333333334" y="0.0">com.laver.design.pattren.creational.factorymethod.Video</node>
-                <node x="174.99999999999997" y="123.0">com.laver.design.pattren.creational.factorymethod.FEVideo</node>
-              </nodes>
-              <notes />
-              <edges>
-                <edge source="com.laver.design.pattren.creational.factorymethod.FEVideoFactory" target="com.laver.design.pattren.creational.factorymethod.Video">
-                  <point x="0.0" y="-26.5" />
-                  <point x="322.2861111111111" y="196.0" />
-                  <point x="339.5" y="196.0" />
-                  <point x="339.5" y="103.0" />
-                  <point x="367.05833333333334" y="103.0" />
-                  <point x="-9.625" y="26.5" />
-                </edge>
-                <edge source="com.laver.design.pattren.creational.factorymethod.JavaVideoFactory" target="com.laver.design.pattren.creational.factorymethod.JavaVideo">
-                  <point x="0.0" y="-26.5" />
-                  <point x="587.1472222222222" y="216.0" />
-                  <point x="571.0" y="216.0" />
-                  <point x="0.0" y="26.5" />
-                </edge>
-                <edge source="com.laver.design.pattren.creational.factorymethod.FEVideoFactory" target="com.laver.design.pattren.creational.factorymethod.VideoFactory">
-                  <point x="45.666666666666686" y="-26.5" />
-                  <point x="367.9527777777778" y="216.0" />
-                  <point x="396.5" y="216.0" />
-                  <point x="-15.5" y="26.5" />
-                </edge>
-                <edge source="com.laver.design.pattren.creational.factorymethod.PythonVideoFactory" target="com.laver.design.pattren.creational.factorymethod.VideoFactory">
-                  <point x="54.33333333333337" y="-26.5" />
-                  <point x="204.11944444444453" y="206.0" />
-                  <point x="365.5" y="206.0" />
-                  <point x="-46.5" y="26.5" />
-                </edge>
-                <edge source="com.laver.design.pattren.creational.factorymethod.PythonVideoFactory" target="com.laver.design.pattren.creational.factorymethod.PythonVideo">
-                  <point x="-54.33333333333337" y="-26.5" />
-                  <point x="95.45277777777778" y="216.0" />
-                  <point x="77.0" y="216.0" />
-                  <point x="0.0" y="26.5" />
-                </edge>
-                <edge source="com.laver.design.pattren.creational.factorymethod.VideoFactory" target="com.laver.design.pattren.creational.factorymethod.Video">
-                  <point x="0.0" y="-26.5" />
-                  <point x="412.0" y="103.0" />
-                  <point x="386.30833333333334" y="103.0" />
-                  <point x="9.625" y="26.5" />
-                </edge>
-                <edge source="com.laver.design.pattren.creational.factorymethod.JavaVideo" target="com.laver.design.pattren.creational.factorymethod.Video">
-                  <point x="0.0" y="-26.5" />
-                  <point x="571.0" y="93.0" />
-                  <point x="405.55833333333334" y="93.0" />
-                  <point x="28.875" y="26.5" />
-                </edge>
-                <edge source="com.laver.design.pattren.creational.factorymethod.Test" target="com.laver.design.pattren.creational.factorymethod.JavaVideoFactory">
-                  <point x="35.0" y="-26.5" />
-                  <point x="462.5" y="309.0" />
-                  <point x="587.1472222222222" y="309.0" />
-                  <point x="0.0" y="26.5" />
-                </edge>
-                <edge source="com.laver.design.pattren.creational.factorymethod.JavaVideoFactory" target="com.laver.design.pattren.creational.factorymethod.VideoFactory">
-                  <point x="-49.66666666666666" y="-26.5" />
-                  <point x="537.4805555555556" y="216.0" />
-                  <point x="458.5" y="216.0" />
-                  <point x="46.5" y="26.5" />
-                </edge>
-                <edge source="com.laver.design.pattren.creational.factorymethod.FEVideoFactory" target="com.laver.design.pattren.creational.factorymethod.FEVideo">
-                  <point x="-45.666666666666686" y="-26.5" />
-                  <point x="276.6194444444444" y="196.0" />
-                  <point x="251.99999999999997" y="196.0" />
-                  <point x="0.0" y="26.5" />
-                </edge>
-                <edge source="com.laver.design.pattren.creational.factorymethod.PythonVideo" target="com.laver.design.pattren.creational.factorymethod.Video">
-                  <point x="0.0" y="-26.5" />
-                  <point x="77.0" y="73.0" />
-                  <point x="309.30833333333334" y="73.0" />
-                  <point x="-67.375" y="26.5" />
-                </edge>
-                <edge source="com.laver.design.pattren.creational.factorymethod.Test" target="com.laver.design.pattren.creational.factorymethod.FEVideoFactory">
-                  <point x="-35.0" y="-26.5" />
-                  <point x="392.5" y="309.0" />
-                  <point x="322.2861111111111" y="309.0" />
-                  <point x="0.0" y="26.5" />
-                </edge>
-                <edge source="com.laver.design.pattren.creational.factorymethod.Test" target="com.laver.design.pattren.creational.factorymethod.Video">
-                  <point x="70.0" y="-26.5" />
-                  <point x="497.5" y="319.0" />
-                  <point x="678.8972222222222" y="319.0" />
-                  <point x="678.8972222222222" y="73.0" />
-                  <point x="444.05833333333334" y="73.0" />
-                  <point x="67.375" y="26.5" />
-                </edge>
-                <edge source="com.laver.design.pattren.creational.factorymethod.FEVideo" target="com.laver.design.pattren.creational.factorymethod.Video">
-                  <point x="2.8421709430404007E-14" y="-26.5" />
-                  <point x="252.0" y="93.0" />
-                  <point x="347.80833333333334" y="93.0" />
-                  <point x="-28.875" y="26.5" />
-                </edge>
-                <edge source="com.laver.design.pattren.creational.factorymethod.Test" target="com.laver.design.pattren.creational.factorymethod.PythonVideoFactory">
-                  <point x="-70.0" y="-26.5" />
-                  <point x="357.5" y="319.0" />
-                  <point x="149.78611111111115" y="319.0" />
-                  <point x="0.0" y="26.5" />
-                </edge>
-                <edge source="com.laver.design.pattren.creational.factorymethod.Test" target="com.laver.design.pattren.creational.factorymethod.VideoFactory">
-                  <point x="0.0" y="-26.5" />
-                  <point x="15.5" y="26.5" />
-                </edge>
-                <edge source="com.laver.design.pattren.creational.factorymethod.JavaVideoFactory" target="com.laver.design.pattren.creational.factorymethod.Video">
-                  <point x="49.66666666666666" y="-26.5" />
-                  <point x="636.8138888888889" y="216.0" />
-                  <point x="658.5" y="216.0" />
-                  <point x="658.5" y="83.0" />
-                  <point x="424.80833333333334" y="83.0" />
-                  <point x="48.125" y="26.5" />
-                </edge>
-                <edge source="com.laver.design.pattren.creational.factorymethod.PythonVideoFactory" target="com.laver.design.pattren.creational.factorymethod.Video">
-                  <point x="0.0" y="-26.5" />
-                  <point x="149.78611111111115" y="216.0" />
-                  <point x="164.5" y="216.0" />
-                  <point x="164.5" y="83.0" />
-                  <point x="328.55833333333334" y="83.0" />
-                  <point x="-48.125" y="26.5" />
-                </edge>
-              </edges>
-              <settings layout="Hierarchic Group" zoom="1.1" x="-28.35606060606065" y="192.18181818181816" />
-              <SelectedNodes>
-                <node>com.laver.design.pattren.creational.factorymethod.Test</node>
-              </SelectedNodes>
-              <Categories>
-                <Category>Fields</Category>
-                <Category>Constructors</Category>
-                <Category>Methods</Category>
-                <Category>Properties</Category>
-                <Category>Inner Classes</Category>
-              </Categories>
-              <SCOPE>All</SCOPE>
-              <VISIBILITY>private</VISIBILITY>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/laver/design/pattren/creational/builder/Course.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="54">
-              <caret line="2" column="21" lean-forward="true" selection-start-line="2" selection-start-column="21" selection-end-line="9" selection-end-column="28" />
+            <state relative-caret-position="270">
+              <caret line="10" column="40" lean-forward="true" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="40" />
               <folding>
-                <element signature="e#292#293#0" expanded="true" />
-                <element signature="e#325#326#0" expanded="true" />
-                <element signature="e#377#378#0" expanded="true" />
-                <element signature="e#421#422#0" expanded="true" />
-                <element signature="e#457#458#0" expanded="true" />
-                <element signature="e#489#490#0" expanded="true" />
-                <element signature="e#539#540#0" expanded="true" />
-                <element signature="e#581#582#0" expanded="true" />
-                <element signature="e#619#620#0" expanded="true" />
-                <element signature="e#653#654#0" expanded="true" />
-                <element signature="e#707#708#0" expanded="true" />
-                <element signature="e#753#754#0" expanded="true" />
-                <element signature="e#793#794#0" expanded="true" />
-                <element signature="e#829#830#0" expanded="true" />
-                <element signature="e#887#888#0" expanded="true" />
-                <element signature="e#937#938#0" expanded="true" />
-                <element signature="e#972#973#0" expanded="true" />
-                <element signature="e#1003#1004#0" expanded="true" />
-                <element signature="e#1051#1052#0" expanded="true" />
-                <element signature="e#1091#1092#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/laver/design/pattren/creational/builder/CourseBuilder.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="297">
-              <caret line="11" selection-start-line="11" selection-end-line="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/laver/design/pattren/creational/builder/CourseActualBuilder.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="54">
-              <caret line="11" column="3" lean-forward="true" selection-start-line="11" selection-start-column="3" selection-end-line="29" selection-end-column="5" />
-              <folding>
-                <element signature="e#228#229#0" expanded="true" />
-                <element signature="e#249#250#0" expanded="true" />
-                <element signature="e#332#333#0" expanded="true" />
-                <element signature="e#353#354#0" expanded="true" />
-                <element signature="e#446#447#0" expanded="true" />
-                <element signature="e#485#486#0" expanded="true" />
-                <element signature="e#568#569#0" expanded="true" />
-                <element signature="e#596#597#0" expanded="true" />
-                <element signature="e#690#691#0" expanded="true" />
-                <element signature="e#711#712#0" expanded="true" />
-                <element signature="e#539#540#0" expanded="true" />
-                <element signature="e#566#567#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/laver/design/pattren/creational/builder/Coach.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/laver/design/pattren/creational/singleton/T.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="54">
               <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/laver/design/pattren/creational/singleton/ThreadLocalInstance.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="459">
+              <caret line="17" column="52" selection-start-line="17" selection-start-column="52" selection-end-line="17" selection-end-column="52" />
               <folding>
-                <element signature="e#179#180#0" expanded="true" />
-                <element signature="e#229#230#0" expanded="true" />
+                <element signature="e#195#356#0" expanded="true" />
+                <element signature="e#355#356#0" expanded="true" />
+                <element signature="e#466#467#0" expanded="true" />
+                <element signature="e#518#519#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/laver/design/pattren/creational/builder/Test.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/laver/design/pattren/creational/singleton/ContainerSingleton.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="270">
-              <caret line="10" column="33" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/laver/design/pattren/creational/builder/v2/Course.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="169">
-              <caret line="31" column="38" lean-forward="true" selection-start-line="31" selection-start-column="38" selection-end-line="31" selection-end-column="38" />
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
               <folding>
-                <element signature="e#1672#1673#0" expanded="true" />
-                <element signature="e#1705#1706#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+                <element signature="e#203#218#0" expanded="true" />
+                <element signature="e#575#576#0" expanded="true" />
+                <element signature="e#609#610#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/laver/design/pattren/creational/builder/v2/Test.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="5" column="33" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
+            <state relative-caret-position="270">
+              <caret line="28" column="4" selection-start-line="28" selection-start-column="4" selection-end-line="28" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/laver/design/pattren/creational/singleton/EnumInstance.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="8" column="38" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="38" />
+              <folding>
+                <element signature="e#131#132#0" expanded="true" />
+                <element signature="e#157#158#0" expanded="true" />
+                <element signature="e#151#152#0" expanded="true" />
+                <element signature="e#178#179#0" expanded="true" />
+                <element signature="e#218#219#0" expanded="true" />
+                <element signature="e#250#251#0" expanded="true" />
+                <element signature="e#301#302#0" expanded="true" />
+                <element signature="e#331#332#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -349,9 +155,15 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>lazyDoubleCheckSingleton</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -367,17 +179,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/laver/design/principle/interfacesegregation/Dog.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/laver/design/principle/interfacesegregation/Bird.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/laver/design/principle/demeter/Test.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/laver/design/principle/demeter/Boss.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/laver/design/principle/demeter/TeamLeader.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/laver/design/principle/openclose/Test.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/laver/design/principle/openclose/JavaDiscountCourse.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/laver/design/principle/liskovSubstitution/Quadrangle.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/laver/design/principle/liskovSubstitution/Rectangle.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/laver/design/principle/liskovSubstitution/Square.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/laver/design/principle/liskovSubstitution/Test.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/laver/design/principle/liskovSubstitution/methodinput/Base.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/laver/design/principle/liskovSubstitution/methodinput/Child.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/laver/design/principle/liskovSubstitution/methodinput/Test.java" />
@@ -393,7 +194,6 @@
         <option value="$PROJECT_DIR$/src/main/java/com/laver/design/pattren/creational/simplefactory/JavaVideo.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/laver/design/pattren/creational/simplefactory/PythonVideo.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/laver/design/pattren/creational/simplefactory/Test.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/laver/design/pattren/creational/simplefactory/VideoFactory.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/laver/design/pattren/creational/factorymethod/VideoFactory.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/laver/design/pattren/creational/factorymethod/JavaVideoFactory.java" />
@@ -418,6 +218,18 @@
         <option value="$PROJECT_DIR$/src/main/java/com/laver/design/pattren/creational/builder/Test.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/laver/design/pattren/creational/builder/v2/Course.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/laver/design/pattren/creational/builder/v2/Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/laver/design/pattren/creational/singleton/LazyDoubleSingleton.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/laver/design/pattren/creational/singleton/LazyDoubleCheckSingleton.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/laver/design/pattren/creational/singleton/HungrySingleton.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/laver/design/pattren/creational/singleton/StaticInnerClassSingleton.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/laver/design/pattren/creational/singleton/LazySingleton.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/laver/design/pattren/creational/singleton/EnumInstance.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/laver/design/pattren/creational/singleton/ContainerSingleton.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/laver/design/pattren/creational/singleton/Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/laver/design/pattren/creational/singleton/ThreadLoadlInstance.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/laver/design/pattren/creational/singleton/ThreadLocalInstance.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/laver/design/pattren/creational/singleton/T.java" />
       </list>
     </option>
   </component>
@@ -438,9 +250,9 @@
     <option name="jreName" value="1.8" />
     <option name="vmOptions" value="-DarchetypeCatalog=internal" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="324" />
-    <option name="y" value="84" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="423" />
+    <option name="y" value="37" />
     <option name="width" value="1296" />
     <option name="height" value="1000" />
   </component>
@@ -540,21 +352,7 @@
               <item name="design" type="462c0819:PsiDirectoryNode" />
               <item name="pattren" type="462c0819:PsiDirectoryNode" />
               <item name="creational" type="462c0819:PsiDirectoryNode" />
-              <item name="builder" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="design_pattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="design_pattern" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="laver" type="462c0819:PsiDirectoryNode" />
-              <item name="design" type="462c0819:PsiDirectoryNode" />
-              <item name="pattren" type="462c0819:PsiDirectoryNode" />
-              <item name="creational" type="462c0819:PsiDirectoryNode" />
-              <item name="builder" type="462c0819:PsiDirectoryNode" />
-              <item name="v2" type="462c0819:PsiDirectoryNode" />
+              <item name="singleton" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -565,7 +363,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544017555062" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544108658702" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
@@ -575,11 +373,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.laver.design.pattren.creational.singleton" />
       <recent name="com.laver.design.pattren.creational.abstractfactory" />
       <recent name="com.laver.design.pattren.creational.factorymethod" />
       <recent name="com.laver.design.pattren.creational.simplefactory" />
       <recent name="com.laver.design.principle.compositionaggregation" />
-      <recent name="com.laver.design.principle.interfacesegregation" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\L\Desktop\IdeaProject\design_pattern\src\main\java\com\laver\design\pattren\creational\factorymethod" />
@@ -597,23 +395,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Test (5)">
+  <component name="RunManager" selected="Application.Test">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.laver.design.principle.compositionaggregation.Test" />
-      <module name="design_pattern" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.laver.design.principle.compositionaggregation.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -674,6 +458,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.laver.design.pattren.creational.singleton.Test" />
+      <module name="design_pattern" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.laver.design.pattren.creational.singleton.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
@@ -704,19 +502,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Test (1)" />
       <item itemvalue="Application.Test (2)" />
       <item itemvalue="Application.Test (3)" />
       <item itemvalue="Application.Test (4)" />
       <item itemvalue="Application.Test (5)" />
+      <item itemvalue="Application.Test" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test" />
         <item itemvalue="Application.Test (5)" />
         <item itemvalue="Application.Test (4)" />
         <item itemvalue="Application.Test (3)" />
         <item itemvalue="Application.Test (2)" />
-        <item itemvalue="Application.Test (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -733,15 +531,16 @@
       <workItem from="1543847342456" duration="5737000" />
       <workItem from="1543922684161" duration="9342000" />
       <workItem from="1543939384501" duration="2259000" />
-      <workItem from="1544010059357" duration="5349000" />
+      <workItem from="1544010059357" duration="6346000" />
+      <workItem from="1544094631917" duration="10189000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22687000" />
+    <option name="totallyTimeSpent" value="33873000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="423" y="37" width="1296" height="1000" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Nl-Palette" order="0" />
@@ -750,7 +549,7 @@
       <window_info id="UI Designer" order="3" />
       <window_info id="Image Layers" order="4" />
       <window_info id="Favorites" order="5" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="6" visible="true" weight="0.26066098" />
+      <window_info active="true" content_ui="combo" id="Project" order="6" visible="true" weight="0.39967638" />
       <window_info id="Structure" order="7" side_tool="true" weight="0.25" />
       <window_info id="Web" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Event Log" order="0" side_tool="true" />
@@ -758,8 +557,8 @@
       <window_info anchor="bottom" id="Terminal" order="2" weight="0.17046688" />
       <window_info anchor="bottom" id="Message" order="3" />
       <window_info anchor="bottom" id="Find" order="4" weight="0.32899022" />
-      <window_info active="true" anchor="bottom" id="Run" order="5" visible="true" weight="0.31270358" />
-      <window_info anchor="bottom" id="Debug" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="5" visible="true" weight="0.10289017" />
+      <window_info anchor="bottom" id="Debug" order="6" weight="0.099891424" />
       <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="9" />
@@ -784,91 +583,19 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/laver/design/pattren/creational/singleton/T.java</url>
+          <line>5</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/laver/design/principle/openclose/ICourse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/laver/design/principle/openclose/JavaCourse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="6" column="25" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/laver/design/principle/liskovSubstitution/Quadrangle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="6" column="21" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/laver/design/principle/liskovSubstitution/Rectangle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="14" column="21" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/laver/design/principle/liskovSubstitution/Square.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="16" column="33" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/laver/design/principle/liskovSubstitution/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="567">
-          <caret line="21" column="5" lean-forward="true" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/laver/design/principle/liskovSubstitution/methodinput/Base.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="6" column="42" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/laver/design/principle/liskovSubstitution/methodinput/Child.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="13" column="38" selection-start-line="13" selection-start-column="38" selection-end-line="13" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/laver/design/principle/liskovSubstitution/methodinput/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="8" column="40" selection-start-line="8" selection-start-column="40" selection-end-line="8" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/laver/design/principle/liskovSubstitution/methodoutput/Base.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="5" column="32" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/laver/design/principle/liskovSubstitution/methodoutput/Child.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="11" column="48" selection-start-line="11" selection-start-column="48" selection-end-line="11" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/laver/design/principle/liskovSubstitution/methodoutput/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="5" column="41" selection-start-line="5" selection-start-column="41" selection-end-line="5" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/laver/design/principle/compositionaggregation/DBConnection.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
@@ -894,10 +621,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
           <caret line="5" column="45" selection-start-line="5" selection-start-column="45" selection-end-line="5" selection-end-column="45" />
-          <folding>
-            <element signature="e#139#140#0" expanded="true" />
-            <element signature="e#194#195#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -936,13 +659,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/laver/design/pattren/creational/simplefactory/VideoFactory.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="351">
@@ -974,9 +690,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
           <caret line="4" column="29" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
-          <folding>
-            <element signature="e#193#194#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -998,10 +711,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
           <caret line="5" column="28" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
-          <folding>
-            <element signature="e#153#154#0" expanded="true" />
-            <element signature="e#189#190#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1030,10 +739,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="5" column="46" selection-start-line="5" selection-start-column="46" selection-end-line="5" selection-end-column="46" />
-          <folding>
-            <element signature="e#145#146#0" expanded="true" />
-            <element signature="e#181#182#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1113,7 +818,7 @@
               <point x="38.5" y="26.5" />
             </edge>
           </edges>
-          <settings layout="Hierarchic Group" zoom="1.0" x="-280.5" y="135.0" />
+          <settings layout="Hierarchic Group" zoom="1.0" x="-280.0" y="135.0" />
           <SelectedNodes>
             <node>com.laver.design.pattren.creational.abstractfactory.JavaArticle</node>
           </SelectedNodes>
@@ -1133,10 +838,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="54">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding>
-            <element signature="e#141#142#0" expanded="true" />
-            <element signature="e#177#178#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1144,12 +845,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="5" column="24" lean-forward="true" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
-          <folding>
-            <element signature="e#162#163#0" expanded="true" />
-            <element signature="e#189#190#0" expanded="true" />
-            <element signature="e#238#239#0" expanded="true" />
-            <element signature="e#265#266#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1173,11 +868,11 @@
           <ID>JAVA</ID>
           <OriginalElement>com.laver.design.pattren.creational.factorymethod</OriginalElement>
           <nodes>
-            <node x="0.0" y="123.0">com.laver.design.pattren.creational.factorymethod.PythonVideo</node>
             <node x="494.0" y="123.0">com.laver.design.pattren.creational.factorymethod.JavaVideo</node>
+            <node x="0.0" y="123.0">com.laver.design.pattren.creational.factorymethod.PythonVideo</node>
+            <node x="339.0909090909091" y="379.9090909090909">com.laver.design.pattren.creational.factorymethod.Test</node>
             <node x="68.28611111111115" y="236.0">com.laver.design.pattren.creational.factorymethod.PythonVideoFactory</node>
             <node x="350.0" y="123.0">com.laver.design.pattren.creational.factorymethod.VideoFactory</node>
-            <node x="339.0909090909091" y="379.9090909090909">com.laver.design.pattren.creational.factorymethod.Test</node>
             <node x="512.6472222222222" y="236.0">com.laver.design.pattren.creational.factorymethod.JavaVideoFactory</node>
             <node x="253.7861111111111" y="236.0">com.laver.design.pattren.creational.factorymethod.FEVideoFactory</node>
             <node x="299.68333333333334" y="0.0">com.laver.design.pattren.creational.factorymethod.Video</node>
@@ -1185,20 +880,6 @@
           </nodes>
           <notes />
           <edges>
-            <edge source="com.laver.design.pattren.creational.factorymethod.FEVideoFactory" target="com.laver.design.pattren.creational.factorymethod.Video">
-              <point x="0.0" y="-26.5" />
-              <point x="322.2861111111111" y="196.0" />
-              <point x="339.5" y="196.0" />
-              <point x="339.5" y="103.0" />
-              <point x="367.05833333333334" y="103.0" />
-              <point x="-9.625" y="26.5" />
-            </edge>
-            <edge source="com.laver.design.pattren.creational.factorymethod.JavaVideoFactory" target="com.laver.design.pattren.creational.factorymethod.JavaVideo">
-              <point x="0.0" y="-26.5" />
-              <point x="587.1472222222222" y="216.0" />
-              <point x="571.0" y="216.0" />
-              <point x="0.0" y="26.5" />
-            </edge>
             <edge source="com.laver.design.pattren.creational.factorymethod.FEVideoFactory" target="com.laver.design.pattren.creational.factorymethod.VideoFactory">
               <point x="45.666666666666686" y="-26.5" />
               <point x="367.9527777777778" y="216.0" />
@@ -1211,29 +892,11 @@
               <point x="365.5" y="206.0" />
               <point x="-46.5" y="26.5" />
             </edge>
-            <edge source="com.laver.design.pattren.creational.factorymethod.PythonVideoFactory" target="com.laver.design.pattren.creational.factorymethod.PythonVideo">
-              <point x="-54.33333333333337" y="-26.5" />
-              <point x="95.45277777777778" y="216.0" />
-              <point x="77.0" y="216.0" />
-              <point x="0.0" y="26.5" />
-            </edge>
-            <edge source="com.laver.design.pattren.creational.factorymethod.VideoFactory" target="com.laver.design.pattren.creational.factorymethod.Video">
-              <point x="0.0" y="-26.5" />
-              <point x="412.0" y="103.0" />
-              <point x="386.30833333333334" y="103.0" />
-              <point x="9.625" y="26.5" />
-            </edge>
             <edge source="com.laver.design.pattren.creational.factorymethod.JavaVideo" target="com.laver.design.pattren.creational.factorymethod.Video">
               <point x="0.0" y="-26.5" />
               <point x="571.0" y="93.0" />
               <point x="405.55833333333334" y="93.0" />
               <point x="28.875" y="26.5" />
-            </edge>
-            <edge source="com.laver.design.pattren.creational.factorymethod.Test" target="com.laver.design.pattren.creational.factorymethod.JavaVideoFactory">
-              <point x="35.0" y="-26.5" />
-              <point x="462.5" y="309.0" />
-              <point x="587.1472222222222" y="309.0" />
-              <point x="0.0" y="26.5" />
             </edge>
             <edge source="com.laver.design.pattren.creational.factorymethod.JavaVideoFactory" target="com.laver.design.pattren.creational.factorymethod.VideoFactory">
               <point x="-49.66666666666666" y="-26.5" />
@@ -1241,31 +904,11 @@
               <point x="458.5" y="216.0" />
               <point x="46.5" y="26.5" />
             </edge>
-            <edge source="com.laver.design.pattren.creational.factorymethod.FEVideoFactory" target="com.laver.design.pattren.creational.factorymethod.FEVideo">
-              <point x="-45.666666666666686" y="-26.5" />
-              <point x="276.6194444444444" y="196.0" />
-              <point x="251.99999999999997" y="196.0" />
-              <point x="0.0" y="26.5" />
-            </edge>
             <edge source="com.laver.design.pattren.creational.factorymethod.PythonVideo" target="com.laver.design.pattren.creational.factorymethod.Video">
               <point x="0.0" y="-26.5" />
               <point x="77.0" y="73.0" />
               <point x="309.30833333333334" y="73.0" />
               <point x="-67.375" y="26.5" />
-            </edge>
-            <edge source="com.laver.design.pattren.creational.factorymethod.Test" target="com.laver.design.pattren.creational.factorymethod.FEVideoFactory">
-              <point x="-35.0" y="-26.5" />
-              <point x="392.5" y="309.0" />
-              <point x="322.2861111111111" y="309.0" />
-              <point x="0.0" y="26.5" />
-            </edge>
-            <edge source="com.laver.design.pattren.creational.factorymethod.Test" target="com.laver.design.pattren.creational.factorymethod.Video">
-              <point x="70.0" y="-26.5" />
-              <point x="497.5" y="319.0" />
-              <point x="678.8972222222222" y="319.0" />
-              <point x="678.8972222222222" y="73.0" />
-              <point x="444.05833333333334" y="73.0" />
-              <point x="67.375" y="26.5" />
             </edge>
             <edge source="com.laver.design.pattren.creational.factorymethod.FEVideo" target="com.laver.design.pattren.creational.factorymethod.Video">
               <point x="2.8421709430404007E-14" y="-26.5" />
@@ -1273,34 +916,8 @@
               <point x="347.80833333333334" y="93.0" />
               <point x="-28.875" y="26.5" />
             </edge>
-            <edge source="com.laver.design.pattren.creational.factorymethod.Test" target="com.laver.design.pattren.creational.factorymethod.PythonVideoFactory">
-              <point x="-70.0" y="-26.5" />
-              <point x="357.5" y="319.0" />
-              <point x="149.78611111111115" y="319.0" />
-              <point x="0.0" y="26.5" />
-            </edge>
-            <edge source="com.laver.design.pattren.creational.factorymethod.Test" target="com.laver.design.pattren.creational.factorymethod.VideoFactory">
-              <point x="0.0" y="-26.5" />
-              <point x="15.5" y="26.5" />
-            </edge>
-            <edge source="com.laver.design.pattren.creational.factorymethod.JavaVideoFactory" target="com.laver.design.pattren.creational.factorymethod.Video">
-              <point x="49.66666666666666" y="-26.5" />
-              <point x="636.8138888888889" y="216.0" />
-              <point x="658.5" y="216.0" />
-              <point x="658.5" y="83.0" />
-              <point x="424.80833333333334" y="83.0" />
-              <point x="48.125" y="26.5" />
-            </edge>
-            <edge source="com.laver.design.pattren.creational.factorymethod.PythonVideoFactory" target="com.laver.design.pattren.creational.factorymethod.Video">
-              <point x="0.0" y="-26.5" />
-              <point x="149.78611111111115" y="216.0" />
-              <point x="164.5" y="216.0" />
-              <point x="164.5" y="83.0" />
-              <point x="328.55833333333334" y="83.0" />
-              <point x="-48.125" y="26.5" />
-            </edge>
           </edges>
-          <settings layout="Hierarchic Group" zoom="1.1" x="-28.35606060606065" y="192.18181818181816" />
+          <settings layout="Hierarchic Group" zoom="0.7038123167155426" x="331.0" y="216.5" />
           <SelectedNodes>
             <node>com.laver.design.pattren.creational.factorymethod.Test</node>
           </SelectedNodes>
@@ -1316,10 +933,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/laver/design/pattren/creational/builder/Course.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="9" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/laver/design/pattren/creational/builder/CourseBuilder.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="297">
           <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/laver/design/pattren/creational/builder/CourseActualBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="11" column="3" selection-start-line="11" selection-start-column="3" selection-end-line="29" selection-end-column="5" />
         </state>
       </provider>
     </entry>
@@ -1341,71 +972,143 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/laver/design/pattren/creational/builder/Course.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="2" column="21" lean-forward="true" selection-start-line="2" selection-start-column="21" selection-end-line="9" selection-end-column="28" />
-          <folding>
-            <element signature="e#292#293#0" expanded="true" />
-            <element signature="e#325#326#0" expanded="true" />
-            <element signature="e#377#378#0" expanded="true" />
-            <element signature="e#421#422#0" expanded="true" />
-            <element signature="e#457#458#0" expanded="true" />
-            <element signature="e#489#490#0" expanded="true" />
-            <element signature="e#539#540#0" expanded="true" />
-            <element signature="e#581#582#0" expanded="true" />
-            <element signature="e#619#620#0" expanded="true" />
-            <element signature="e#653#654#0" expanded="true" />
-            <element signature="e#707#708#0" expanded="true" />
-            <element signature="e#753#754#0" expanded="true" />
-            <element signature="e#793#794#0" expanded="true" />
-            <element signature="e#829#830#0" expanded="true" />
-            <element signature="e#887#888#0" expanded="true" />
-            <element signature="e#937#938#0" expanded="true" />
-            <element signature="e#972#973#0" expanded="true" />
-            <element signature="e#1003#1004#0" expanded="true" />
-            <element signature="e#1051#1052#0" expanded="true" />
-            <element signature="e#1091#1092#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/laver/design/pattren/creational/builder/CourseActualBuilder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="11" column="3" lean-forward="true" selection-start-line="11" selection-start-column="3" selection-end-line="29" selection-end-column="5" />
-          <folding>
-            <element signature="e#228#229#0" expanded="true" />
-            <element signature="e#249#250#0" expanded="true" />
-            <element signature="e#332#333#0" expanded="true" />
-            <element signature="e#353#354#0" expanded="true" />
-            <element signature="e#446#447#0" expanded="true" />
-            <element signature="e#485#486#0" expanded="true" />
-            <element signature="e#568#569#0" expanded="true" />
-            <element signature="e#596#597#0" expanded="true" />
-            <element signature="e#690#691#0" expanded="true" />
-            <element signature="e#711#712#0" expanded="true" />
-            <element signature="e#539#540#0" expanded="true" />
-            <element signature="e#566#567#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/laver/design/pattren/creational/builder/v2/Course.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="169">
-          <caret line="31" column="38" lean-forward="true" selection-start-line="31" selection-start-column="38" selection-end-line="31" selection-end-column="38" />
-          <folding>
-            <element signature="e#1672#1673#0" expanded="true" />
-            <element signature="e#1705#1706#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="837">
+          <caret line="31" column="38" selection-start-line="31" selection-start-column="38" selection-end-line="31" selection-end-column="38" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/laver/design/pattren/creational/builder/v2/Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="5" column="33" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
+        <state relative-caret-position="243">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_101/src.zip!/java/lang/Thread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="744" selection-start-line="744" selection-end-line="744" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/laver/design/pattren/creational/singleton/LazyDoubleSingleton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="27" lean-forward="true" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/laver/design/pattren/creational/singleton/LazyDoubleCheckSingleton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="287">
+          <caret line="11" column="50" lean-forward="true" selection-start-line="11" selection-start-column="50" selection-end-line="11" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/laver/design/pattren/creational/singleton/HungrySingleton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="13" selection-start-line="13" selection-end-line="14" />
+          <folding>
+            <element signature="e#272#273#0" expanded="true" />
+            <element signature="e#296#297#0" expanded="true" />
+            <element signature="e#428#429#0" expanded="true" />
+            <element signature="e#465#466#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_101/src.zip!/java/lang/Class.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="2174" column="26" selection-start-line="2174" selection-start-column="26" selection-end-line="2174" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/laver/design/pattren/creational/singleton/StaticInnerClassSingleton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="13" column="8" lean-forward="true" selection-start-line="13" selection-start-column="8" selection-end-line="15" selection-end-column="9" />
+          <folding>
+            <element signature="e#309#310#0" expanded="true" />
+            <element signature="e#368#369#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/laver/design/pattren/creational/singleton/LazySingleton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/laver/design/pattren/creational/singleton/EnumInstance.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="8" column="38" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="38" />
+          <folding>
+            <element signature="e#131#132#0" expanded="true" />
+            <element signature="e#157#158#0" expanded="true" />
+            <element signature="e#151#152#0" expanded="true" />
+            <element signature="e#178#179#0" expanded="true" />
+            <element signature="e#218#219#0" expanded="true" />
+            <element signature="e#250#251#0" expanded="true" />
+            <element signature="e#301#302#0" expanded="true" />
+            <element signature="e#331#332#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="28" column="4" selection-start-line="28" selection-start-column="4" selection-end-line="28" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/laver/design/pattren/creational/singleton/ContainerSingleton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#203#218#0" expanded="true" />
+            <element signature="e#575#576#0" expanded="true" />
+            <element signature="e#609#610#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/laver/design/pattren/creational/singleton/ThreadLocalInstance.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="17" column="52" selection-start-line="17" selection-start-column="52" selection-end-line="17" selection-end-column="52" />
+          <folding>
+            <element signature="e#195#356#0" expanded="true" />
+            <element signature="e#355#356#0" expanded="true" />
+            <element signature="e#466#467#0" expanded="true" />
+            <element signature="e#518#519#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/laver/design/pattren/creational/singleton/T.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/laver/design/pattren/creational/singleton/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" column="40" lean-forward="true" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
