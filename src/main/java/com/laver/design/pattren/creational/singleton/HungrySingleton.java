@@ -2,11 +2,16 @@ package com.laver.design.pattren.creational.singleton;
 
 import java.io.Serializable;
 
-public class HungrySingleton implements Serializable {
+public class HungrySingleton implements Serializable,Cloneable {
     private final static HungrySingleton hungrySingleton;
 
     static {
         hungrySingleton = new HungrySingleton();
+    }
+
+    @Override
+    protected Object clone() throws CloneNotSupportedException {
+        return getInstance();
     }
 
     private HungrySingleton(){
