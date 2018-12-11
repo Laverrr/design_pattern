@@ -4,7 +4,6 @@
     <list default="true" id="5546b1b4-0d58-4a5b-b297-2b37c8fc167b" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/../es_book/src/main/java/com/laver/es_book/MyConfig.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/laver/design/pattren/structural/adapter/PowerAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/laver/design/pattren/structural/adapter/PowerAdapter.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../medical/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../medical/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../medical/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../medical/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../test/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../test/.idea/workspace.xml" afterDir="false" />
@@ -23,7 +22,7 @@
     <session id="-1404032481">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="10" />
+          <entry key="project.closed" value="11" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.11" value="2" />
@@ -32,8 +31,9 @@
           <entry key="project.open.time.14" value="1" />
           <entry key="project.open.time.2" value="2" />
           <entry key="project.open.time.27" value="1" />
+          <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.4" value="1" />
-          <entry key="project.opened" value="11" />
+          <entry key="project.opened" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -42,12 +42,13 @@
           <entry key="abstractfactory" value="1" />
           <entry key="adapter" value="1" />
           <entry key="classadapter" value="1" />
+          <entry key="composite" value="1" />
           <entry key="demeter" value="1" />
           <entry key="dependenceinversion" value="1" />
           <entry key="facade" value="2" />
           <entry key="factorymethod" value="1" />
           <entry key="interfacesegregation" value="1" />
-          <entry key="java" value="152" />
+          <entry key="java" value="156" />
           <entry key="openclose" value="1" />
           <entry key="prototype" value="1" />
           <entry key="singleresponsibility" value="1" />
@@ -58,194 +59,27 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="152" />
-          <entry key="UML" value="17" />
+          <entry key="JAVA" value="156" />
+          <entry key="UML" value="18" />
           <entry key="XML" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="7510" />
+          <entry key="dummy" value="9" />
+          <entry key="java" value="8151" />
+          <entry key="txt" value="6" />
           <entry key="xml" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="7510" />
+          <entry key="JAVA" value="8151" />
+          <entry key="PLAIN_TEXT" value="15" />
           <entry key="XML" value="4" />
         </counts>
       </usages-collector>
     </session>
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/laver/design/pattren/structural/decorator/v2/AbstractDecorator.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="243">
-              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-              <folding>
-                <element signature="e#204#205#0" expanded="true" />
-                <element signature="e#250#251#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="uml://JAVA/com.laver.design.pattren.structural.adapter">
-          <provider selected="true" editor-type-id="UmlEditorProvider">
-            <state>
-              <ID>JAVA</ID>
-              <OriginalElement>com.laver.design.pattren.structural.adapter</OriginalElement>
-              <nodes>
-                <node x="40.0" y="328.0">com.laver.design.pattren.structural.adapter.objectadapter</node>
-                <node x="40.77499999999998" y="103.0">com.laver.design.pattren.structural.adapter.PowerAdapter</node>
-                <node x="0.0" y="0.0">com.laver.design.pattren.structural.adapter.AC220</node>
-                <node x="197.0" y="0.0">com.laver.design.pattren.structural.adapter.DC5</node>
-                <node x="282.0" y="328.0">com.laver.design.pattren.structural.adapter.classadapter</node>
-                <node x="138.875" y="230.0">com.laver.design.pattren.structural.adapter.Test</node>
-              </nodes>
-              <notes />
-              <edges>
-                <edge source="com.laver.design.pattren.structural.adapter.classadapter" target="com.laver.design.pattren.structural.adapter.classadapter">
-                  <point x="39.75" y="15.0" />
-                  <point x="401.25" y="388.0" />
-                  <point x="252.0" y="388.0" />
-                  <point x="252.0" y="335.5" />
-                  <point x="-79.5" y="-7.5" />
-                </edge>
-                <edge source="com.laver.design.pattren.structural.adapter.PowerAdapter" target="com.laver.design.pattren.structural.adapter.DC5">
-                  <point x="54.66666666666666" y="-38.5" />
-                  <point x="177.44166666666663" y="78.0" />
-                  <point x="238.0" y="78.0" />
-                  <point x="-41.0" y="26.5" />
-                </edge>
-                <edge source="com.laver.design.pattren.structural.adapter.PowerAdapter" target="com.laver.design.pattren.structural.adapter.AC220">
-                  <point x="-54.66666666666666" y="-38.5" />
-                  <point x="68.10833333333332" y="78.0" />
-                  <point x="44.25" y="78.0" />
-                  <point x="-44.25" y="26.5" />
-                </edge>
-                <edge source="com.laver.design.pattren.structural.adapter.Test" target="com.laver.design.pattren.structural.adapter.PowerAdapter">
-                  <point x="-43.75" y="-26.5" />
-                  <point x="182.625" y="205.0" />
-                  <point x="122.77499999999998" y="205.0" />
-                  <point x="0.0" y="38.5" />
-                </edge>
-                <edge source="com.laver.design.pattren.structural.adapter.objectadapter" target="com.laver.design.pattren.structural.adapter.objectadapter">
-                  <point x="0.0" y="15.0" />
-                  <point x="123.5" y="388.0" />
-                  <point x="10.0" y="388.0" />
-                  <point x="10.0" y="343.0" />
-                  <point x="-83.5" y="-0.0" />
-                </edge>
-                <edge source="com.laver.design.pattren.structural.adapter.Test" target="com.laver.design.pattren.structural.adapter.DC5">
-                  <point x="43.75" y="-26.5" />
-                  <point x="270.125" y="205.0" />
-                  <point x="320.0" y="205.0" />
-                  <point x="41.0" y="26.5" />
-                </edge>
-              </edges>
-              <settings layout="Hierarchic Group" zoom="1.0" x="-290.5" y="99.5" />
-              <SelectedNodes />
-              <Categories>
-                <Category>Fields</Category>
-                <Category>Constructors</Category>
-                <Category>Methods</Category>
-                <Category>Inner Classes</Category>
-                <Category>Properties</Category>
-              </Categories>
-              <SCOPE>All</SCOPE>
-              <VISIBILITY>private</VISIBILITY>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/laver/design/pattren/structural/flyweight/Employee.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="54">
-              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/laver/design/pattren/structural/flyweight/Manager.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="7" column="34" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
-              <folding>
-                <element signature="e#138#139#0" expanded="true" />
-                <element signature="e#174#175#0" expanded="true" />
-                <element signature="e#281#282#0" expanded="true" />
-                <element signature="e#331#332#0" expanded="true" />
-                <element signature="e#264#265#0" expanded="true" />
-                <element signature="e#308#309#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/laver/design/pattren/structural/flyweight/EmployeeFactory.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="227">
-              <caret line="15" column="30" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/laver/design/pattren/structural/flyweight/Test.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="8" column="47" selection-start-line="8" selection-start-column="47" selection-end-line="8" selection-end-column="47" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/laver/design/pattren/structural/adapter/Test.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/laver/design/pattren/structural/adapter/AC220.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="81">
-              <caret line="3" column="30" lean-forward="true" selection-start-line="3" selection-start-column="30" selection-end-line="3" selection-end-column="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/laver/design/pattren/structural/adapter/DC5.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="81">
-              <caret line="3" column="20" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/laver/design/pattren/structural/adapter/PowerAdapter.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="43" lean-forward="true" selection-start-column="43" selection-end-column="43" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -275,10 +109,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/laver/design/pattren/creational/builder/Test.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/laver/design/pattren/creational/builder/v2/Course.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/laver/design/pattren/creational/builder/v2/Test.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/laver/design/pattren/creational/singleton/LazyDoubleSingleton.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/laver/design/pattren/creational/singleton/LazyDoubleCheckSingleton.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/laver/design/pattren/creational/singleton/StaticInnerClassSingleton.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/laver/design/pattren/creational/singleton/LazySingleton.java" />
@@ -326,6 +156,10 @@
         <option value="$PROJECT_DIR$/src/main/java/com/laver/design/pattren/structural/flyweight/Test.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/laver/design/pattren/structural/flyweight/EmployeeFactory.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/laver/design/pattren/structural/flyweight/Manager.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/laver/design/pattren/structural/composite/Course.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/laver/design/pattren/structural/composite/Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/laver/design/pattren/structural/composite/CatalogComponent.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/laver/design/pattren/structural/composite/CourseCatalog.java" />
       </list>
     </option>
   </component>
@@ -346,7 +180,7 @@
     <option name="jreName" value="1.8" />
     <option name="vmOptions" value="-DarchetypeCatalog=internal" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="214" />
     <option name="y" value="199" />
     <option name="width" value="1296" />
@@ -447,7 +281,7 @@
               <item name="design" type="462c0819:PsiDirectoryNode" />
               <item name="pattren" type="462c0819:PsiDirectoryNode" />
               <item name="structural" type="462c0819:PsiDirectoryNode" />
-              <item name="flyweight" type="462c0819:PsiDirectoryNode" />
+              <item name="composite" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -460,7 +294,7 @@
     <property name="SearchEverywhereHistoryKey" value="resultset&#9;PSI&#9;JAVA://java.sql.ResultSet" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544451237052" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544535365410" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
@@ -493,23 +327,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Test (5)">
+  <component name="RunManager" selected="Application.Test">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.laver.design.pattren.creational.prototype.Test" />
-      <module name="design_pattern" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.laver.design.pattren.creational.prototype.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -570,6 +390,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.laver.design.pattren.structural.composite.Test" />
+      <module name="design_pattern" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.laver.design.pattren.structural.composite.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
@@ -600,19 +434,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Test (1)" />
       <item itemvalue="Application.Test (2)" />
       <item itemvalue="Application.Test (3)" />
       <item itemvalue="Application.Test (4)" />
       <item itemvalue="Application.Test (5)" />
+      <item itemvalue="Application.Test" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test" />
         <item itemvalue="Application.Test (5)" />
         <item itemvalue="Application.Test (4)" />
         <item itemvalue="Application.Test (3)" />
         <item itemvalue="Application.Test (2)" />
-        <item itemvalue="Application.Test (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -636,15 +470,16 @@
       <workItem from="1544247279895" duration="1035000" />
       <workItem from="1544252287808" duration="599000" />
       <workItem from="1544368408945" duration="2292000" />
-      <workItem from="1544440485007" duration="6783000" />
+      <workItem from="1544440485007" duration="6820000" />
+      <workItem from="1544528092123" duration="2257000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="47492000" />
+    <option name="totallyTimeSpent" value="49786000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Nl-Palette" order="0" />
@@ -653,7 +488,7 @@
       <window_info id="UI Designer" order="3" />
       <window_info id="Image Layers" order="4" />
       <window_info id="Favorites" order="5" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="6" visible="true" weight="0.2803838" />
+      <window_info active="true" content_ui="combo" id="Project" order="6" visible="true" weight="0.2835821" />
       <window_info id="Structure" order="7" side_tool="true" weight="0.25" />
       <window_info id="Web" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Event Log" order="0" side_tool="true" />
@@ -661,7 +496,7 @@
       <window_info anchor="bottom" id="Terminal" order="2" weight="0.29967427" />
       <window_info anchor="bottom" id="Message" order="3" />
       <window_info anchor="bottom" id="Find" order="4" weight="0.32899022" />
-      <window_info anchor="bottom" id="Run" order="5" weight="0.6188925" />
+      <window_info anchor="bottom" id="Run" order="5" visible="true" weight="0.19869708" />
       <window_info anchor="bottom" id="Debug" order="6" weight="0.099891424" />
       <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
@@ -700,78 +535,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="756">
-          <caret line="28" column="4" selection-start-line="28" selection-start-column="4" selection-end-line="28" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://JAVA/com.laver.design.pattren.creational.prototype">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JAVA</ID>
-          <OriginalElement>com.laver.design.pattren.creational.prototype</OriginalElement>
-          <nodes>
-            <node x="154.7" y="346.0">com.laver.design.pattren.creational.prototype.Test</node>
-            <node x="0.0" y="220.0">com.laver.design.pattren.creational.prototype.MailUtil</node>
-            <node x="158.70000000000002" y="0.0">com.laver.design.pattren.creational.prototype.Mail</node>
-            <node x="374.7" y="0.0">com.laver.design.pattren.creational.prototype.abstractprototype</node>
-          </nodes>
-          <notes />
-          <edges>
-            <edge source="com.laver.design.pattren.creational.prototype.Test" target="com.laver.design.pattren.creational.prototype.Mail">
-              <point x="58.33333333333334" y="-26.5" />
-              <point x="300.53333333333336" y="321.0" />
-              <point x="280.5" y="321.0" />
-              <point x="280.5" y="195.0" />
-              <point x="299.53333333333336" y="195.0" />
-              <point x="56.33333333333334" y="85.0" />
-            </edge>
-            <edge source="com.laver.design.pattren.creational.prototype.MailUtil" target="com.laver.design.pattren.creational.prototype.Mail">
-              <point x="0.0" y="-38.0" />
-              <point x="129.5" y="195.0" />
-              <point x="186.86666666666667" y="195.0" />
-              <point x="-56.33333333333334" y="85.0" />
-            </edge>
-            <edge source="com.laver.design.pattren.creational.prototype.Test" target="com.laver.design.pattren.creational.prototype.MailUtil">
-              <point x="-58.333333333333314" y="-26.5" />
-              <point x="183.86666666666667" y="321.0" />
-              <point x="129.5" y="321.0" />
-              <point x="0.0" y="38.0" />
-            </edge>
-          </edges>
-          <settings layout="Hierarchic Group" zoom="1.0" x="-351.0" y="25.0" />
-          <SelectedNodes>
-            <node>com.laver.design.pattren.creational.prototype.Test</node>
-          </SelectedNodes>
-          <Categories>
-            <Category>Fields</Category>
-            <Category>Constructors</Category>
-            <Category>Methods</Category>
-            <Category>Properties</Category>
-            <Category>Inner Classes</Category>
-          </Categories>
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>private</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/laver/design/pattren/creational/prototype/clone/Pg.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/laver/design/pattren/creational/prototype/Mail.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="2" column="36" selection-start-line="2" selection-start-column="36" selection-end-line="2" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/laver/design/pattren/creational/prototype/clone/Pig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="702">
-          <caret line="26" column="19" selection-start-line="26" selection-start-column="19" selection-end-line="26" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/laver/design/pattren/creational/singleton/HungrySingleton.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="351">
@@ -805,10 +568,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding>
-            <element signature="e#122#123#0" expanded="true" />
-            <element signature="e#168#169#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -865,10 +624,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
           <caret line="5" column="33" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
-          <folding>
-            <element signature="e#167#168#0" expanded="true" />
-            <element signature="e#221#222#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -876,10 +631,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
           <caret line="4" column="35" selection-start-line="4" selection-start-column="35" selection-end-line="4" selection-end-column="35" />
-          <folding>
-            <element signature="e#122#123#0" expanded="true" />
-            <element signature="e#158#159#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -887,10 +638,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="5" column="31" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
-          <folding>
-            <element signature="e#164#165#0" expanded="true" />
-            <element signature="e#184#185#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -936,10 +683,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="54">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding>
-            <element signature="e#155#156#0" expanded="true" />
-            <element signature="e#191#192#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -975,10 +718,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
           <caret line="8" column="32" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
-          <folding>
-            <element signature="e#196#197#0" expanded="true" />
-            <element signature="e#218#219#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1028,7 +767,7 @@
               <point x="34.5" y="73.5" />
             </edge>
           </edges>
-          <settings layout="Hierarchic Group" zoom="1.2" x="-174.78388278388303" y="124.0" />
+          <settings layout="Hierarchic Group" zoom="1.2" x="-175.0" y="124.0" />
           <SelectedNodes>
             <node>com.laver.design.pattren.structural.facade.Computer</node>
           </SelectedNodes>
@@ -1055,10 +794,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="5" column="33" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
-          <folding>
-            <element signature="e#153#154#0" expanded="true" />
-            <element signature="e#203#204#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1167,12 +902,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="351">
           <caret line="14" column="30" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
-          <folding>
-            <element signature="e#169#170#0" expanded="true" />
-            <element signature="e#203#204#0" expanded="true" />
-            <element signature="e#251#252#0" expanded="true" />
-            <element signature="e#306#307#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1194,10 +923,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
           <caret line="6" column="5" lean-forward="true" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
-          <folding>
-            <element signature="e#150#151#0" expanded="true" />
-            <element signature="e#179#180#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1205,53 +930,17 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="54">
           <caret line="2" column="37" lean-forward="true" selection-start-line="2" selection-start-column="37" selection-end-line="2" selection-end-column="37" />
-          <folding>
-            <element signature="e#162#163#0" expanded="true" />
-            <element signature="e#196#197#0" expanded="true" />
-            <element signature="e#244#245#0" expanded="true" />
-            <element signature="e#295#296#0" expanded="true" />
-            <element signature="e#337#338#0" expanded="true" />
-            <element signature="e#376#377#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/laver/design/pattren/structural/decorator/v2/AbstractDecorator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        <state relative-caret-position="189">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
           <folding>
             <element signature="e#204#205#0" expanded="true" />
             <element signature="e#250#251#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/laver/design/pattren/structural/adapter/AC220.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="81">
-          <caret line="3" column="30" lean-forward="true" selection-start-line="3" selection-start-column="30" selection-end-line="3" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/laver/design/pattren/structural/adapter/DC5.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="81">
-          <caret line="3" column="20" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/laver/design/pattren/structural/adapter/PowerAdapter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="43" lean-forward="true" selection-start-column="43" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/laver/design/pattren/structural/adapter/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
         </state>
       </provider>
     </entry>
@@ -1270,53 +959,23 @@
           </nodes>
           <notes />
           <edges>
-            <edge source="com.laver.design.pattren.structural.adapter.classadapter" target="com.laver.design.pattren.structural.adapter.classadapter">
-              <point x="39.75" y="15.0" />
-              <point x="401.25" y="388.0" />
-              <point x="252.0" y="388.0" />
-              <point x="252.0" y="335.5" />
-              <point x="-79.5" y="-7.5" />
-            </edge>
             <edge source="com.laver.design.pattren.structural.adapter.PowerAdapter" target="com.laver.design.pattren.structural.adapter.DC5">
               <point x="54.66666666666666" y="-38.5" />
               <point x="177.44166666666663" y="78.0" />
               <point x="238.0" y="78.0" />
               <point x="-41.0" y="26.5" />
             </edge>
-            <edge source="com.laver.design.pattren.structural.adapter.PowerAdapter" target="com.laver.design.pattren.structural.adapter.AC220">
-              <point x="-54.66666666666666" y="-38.5" />
-              <point x="68.10833333333332" y="78.0" />
-              <point x="44.25" y="78.0" />
-              <point x="-44.25" y="26.5" />
-            </edge>
-            <edge source="com.laver.design.pattren.structural.adapter.Test" target="com.laver.design.pattren.structural.adapter.PowerAdapter">
-              <point x="-43.75" y="-26.5" />
-              <point x="182.625" y="205.0" />
-              <point x="122.77499999999998" y="205.0" />
-              <point x="0.0" y="38.5" />
-            </edge>
-            <edge source="com.laver.design.pattren.structural.adapter.objectadapter" target="com.laver.design.pattren.structural.adapter.objectadapter">
-              <point x="0.0" y="15.0" />
-              <point x="123.5" y="388.0" />
-              <point x="10.0" y="388.0" />
-              <point x="10.0" y="343.0" />
-              <point x="-83.5" y="-0.0" />
-            </edge>
-            <edge source="com.laver.design.pattren.structural.adapter.Test" target="com.laver.design.pattren.structural.adapter.DC5">
-              <point x="43.75" y="-26.5" />
-              <point x="270.125" y="205.0" />
-              <point x="320.0" y="205.0" />
-              <point x="41.0" y="26.5" />
-            </edge>
           </edges>
-          <settings layout="Hierarchic Group" zoom="1.0" x="-290.5" y="99.5" />
-          <SelectedNodes />
+          <settings layout="Hierarchic Group" zoom="1.0" x="220.5" y="179.0" />
+          <SelectedNodes>
+            <node>com.laver.design.pattren.structural.adapter.objectadapter</node>
+          </SelectedNodes>
           <Categories>
             <Category>Fields</Category>
             <Category>Constructors</Category>
             <Category>Methods</Category>
-            <Category>Inner Classes</Category>
             <Category>Properties</Category>
+            <Category>Inner Classes</Category>
           </Categories>
           <SCOPE>All</SCOPE>
           <VISIBILITY>private</VISIBILITY>
@@ -1332,7 +991,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/laver/design/pattren/structural/flyweight/EmployeeFactory.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="227">
+        <state relative-caret-position="378">
           <caret line="15" column="30" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1347,17 +1006,139 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/laver/design/pattren/structural/adapter/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/laver/design/pattren/structural/adapter/AC220.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="30" selection-start-line="3" selection-start-column="30" selection-end-line="3" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/laver/design/pattren/structural/adapter/DC5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="20" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/laver/design/pattren/structural/adapter/PowerAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="43" selection-start-column="43" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/laver/design/pattren/structural/flyweight/Manager.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="7" column="34" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
+        <state relative-caret-position="216">
+          <caret line="8" column="30" lean-forward="true" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
           <folding>
             <element signature="e#138#139#0" expanded="true" />
-            <element signature="e#174#175#0" expanded="true" />
-            <element signature="e#281#282#0" expanded="true" />
-            <element signature="e#331#332#0" expanded="true" />
-            <element signature="e#264#265#0" expanded="true" />
-            <element signature="e#308#309#0" expanded="true" />
+            <element signature="e#187#188#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/laver/design/pattren/structural/composite/CatalogComponent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="15" column="22" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+          <folding>
+            <element signature="e#151#152#0" expanded="true" />
+            <element signature="e#207#208#0" expanded="true" />
+            <element signature="e#269#270#0" expanded="true" />
+            <element signature="e#333#334#0" expanded="true" />
+            <element signature="e#402#403#0" expanded="true" />
+            <element signature="e#470#471#0" expanded="true" />
+            <element signature="e#496#497#0" expanded="true" />
+            <element signature="e#555#556#0" expanded="true" />
+            <element signature="e#648#649#0" expanded="true" />
+            <element signature="e#712#713#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.laver.design.pattren.structural.composite">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.laver.design.pattren.structural.composite</OriginalElement>
+          <nodes>
+            <node x="0.0" y="195.0">com.laver.design.pattren.structural.composite.Course</node>
+            <node x="301.0" y="195.0">com.laver.design.pattren.structural.composite.CourseCatalog</node>
+            <node x="145.75" y="0.0">com.laver.design.pattren.structural.composite.CatalogComponent</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="com.laver.design.pattren.structural.composite.CourseCatalog" target="com.laver.design.pattren.structural.composite.CatalogComponent">
+              <point x="0.0" y="-85.0" />
+              <point x="432.0" y="170.0" />
+              <point x="356.5" y="170.0" />
+              <point x="70.25" y="72.5" />
+            </edge>
+            <edge source="com.laver.design.pattren.structural.composite.Course" target="com.laver.design.pattren.structural.composite.CatalogComponent">
+              <point x="0.0" y="-85.0" />
+              <point x="140.5" y="170.0" />
+              <point x="216.0" y="170.0" />
+              <point x="-70.25" y="72.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="-310.5" y="32.0" />
+          <SelectedNodes>
+            <node>com.laver.design.pattren.structural.composite.CatalogComponent</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+            <Category>Properties</Category>
+            <Category>Inner Classes</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/laver/design/pattren/structural/composite/Course.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="33" selection-start-line="2" selection-start-column="33" selection-end-line="2" selection-end-column="33" />
+          <folding>
+            <element signature="e#338#339#0" expanded="true" />
+            <element signature="e#369#370#0" expanded="true" />
+            <element signature="e#449#450#0" expanded="true" />
+            <element signature="e#475#476#0" expanded="true" />
+            <element signature="e#600#601#0" expanded="true" />
+            <element signature="e#645#646#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/laver/design/pattren/structural/composite/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="22" column="39" selection-start-line="22" selection-start-column="39" selection-end-line="22" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/laver/design/pattren/structural/composite/CourseCatalog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="580">
+          <caret line="37" selection-start-line="37" selection-end-line="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#392#393#0" expanded="true" />
+            <element signature="e#435#436#0" expanded="true" />
+            <element signature="e#513#514#0" expanded="true" />
+            <element signature="e#567#568#0" expanded="true" />
+            <element signature="e#510#511#0" expanded="true" />
+            <element signature="e#555#556#0" expanded="true" />
           </folding>
         </state>
       </provider>
