@@ -41,6 +41,7 @@
           <entry key="JavaScript-modules-diagram/C:/Users/L/Desktop/IdeaProject/design_pattern/src/main/java/com/laver/design/principle/openclose" value="1" />
           <entry key="abstractfactory" value="1" />
           <entry key="adapter" value="1" />
+          <entry key="bridge" value="1" />
           <entry key="classadapter" value="1" />
           <entry key="composite" value="1" />
           <entry key="demeter" value="1" />
@@ -48,7 +49,7 @@
           <entry key="facade" value="2" />
           <entry key="factorymethod" value="1" />
           <entry key="interfacesegregation" value="1" />
-          <entry key="java" value="156" />
+          <entry key="java" value="163" />
           <entry key="openclose" value="1" />
           <entry key="prototype" value="1" />
           <entry key="singleresponsibility" value="1" />
@@ -59,33 +60,211 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="156" />
-          <entry key="UML" value="18" />
+          <entry key="JAVA" value="163" />
+          <entry key="UML" value="19" />
           <entry key="XML" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="9" />
-          <entry key="java" value="8151" />
+          <entry key="java" value="8534" />
           <entry key="txt" value="6" />
           <entry key="xml" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="8151" />
+          <entry key="JAVA" value="8534" />
           <entry key="PLAIN_TEXT" value="15" />
           <entry key="XML" value="4" />
         </counts>
       </usages-collector>
     </session>
   </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/laver/design/pattren/structural/composite/CatalogComponent.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="10" column="54" selection-start-line="10" selection-start-column="54" selection-end-line="10" selection-end-column="54" />
+              <folding>
+                <element signature="e#151#152#0" expanded="true" />
+                <element signature="e#217#218#0" expanded="true" />
+                <element signature="e#269#270#0" expanded="true" />
+                <element signature="e#333#334#0" expanded="true" />
+                <element signature="e#402#403#0" expanded="true" />
+                <element signature="e#470#471#0" expanded="true" />
+                <element signature="e#496#497#0" expanded="true" />
+                <element signature="e#555#556#0" expanded="true" />
+                <element signature="e#648#649#0" expanded="true" />
+                <element signature="e#712#713#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/laver/design/pattren/structural/bridge/Account.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="108">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/laver/design/pattren/structural/bridge/DepositAccount.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
+              <folding>
+                <element signature="e#295#296#0" expanded="true" />
+                <element signature="e#353#354#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/laver/design/pattren/structural/bridge/SavingAccount.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="297">
+              <caret line="11" column="55" lean-forward="true" selection-start-line="11" selection-start-column="55" selection-end-line="11" selection-end-column="55" />
+              <folding>
+                <element signature="e#292#293#0" expanded="true" />
+                <element signature="e#353#354#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/laver/design/pattren/structural/bridge/Bank.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+              <folding>
+                <element signature="e#150#151#0" expanded="true" />
+                <element signature="e#188#189#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/laver/design/pattren/structural/bridge/Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="10" column="57" selection-start-line="10" selection-start-column="57" selection-end-line="10" selection-end-column="57" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/laver/design/pattren/structural/bridge/BACBank.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="8" column="12" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
+              <folding>
+                <element signature="e#125#126#0" expanded="true" />
+                <element signature="e#155#156#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/laver/design/pattren/structural/bridge/ICBCBank.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="189">
+              <caret line="9" column="41" selection-start-line="9" selection-start-column="41" selection-end-line="9" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="uml://JAVA/com.laver.design.pattren.structural.bridge">
+          <provider selected="true" editor-type-id="UmlEditorProvider">
+            <state>
+              <ID>JAVA</ID>
+              <OriginalElement>com.laver.design.pattren.structural.bridge</OriginalElement>
+              <nodes>
+                <node x="-332.0" y="148.0">com.laver.design.pattren.structural.bridge.DepositAccount</node>
+                <node x="200.0" y="156.0">com.laver.design.pattren.structural.bridge.BACBank</node>
+                <node x="-103.0" y="148.0">com.laver.design.pattren.structural.bridge.SavingAccount</node>
+                <node x="422.0" y="156.0">com.laver.design.pattren.structural.bridge.ICBCBank</node>
+                <node x="-217.5" y="22.0">com.laver.design.pattren.structural.bridge.Account</node>
+                <node x="311.0" y="5.0">com.laver.design.pattren.structural.bridge.Bank</node>
+              </nodes>
+              <notes />
+              <edges>
+                <edge source="com.laver.design.pattren.structural.bridge.BACBank" target="com.laver.design.pattren.structural.bridge.Bank">
+                  <point x="0.0" y="-38.5" />
+                  <point x="301.0" y="131.0" />
+                  <point x="361.5" y="131.0" />
+                  <point x="-50.5" y="50.5" />
+                </edge>
+                <edge source="com.laver.design.pattren.structural.bridge.DepositAccount" target="com.laver.design.pattren.structural.bridge.Account">
+                  <point x="0.0" y="-38.0" />
+                  <point x="-227.5" y="123.0" />
+                  <point x="-165.25" y="123.0" />
+                  <point x="-52.25" y="38.0" />
+                </edge>
+                <edge source="com.laver.design.pattren.structural.bridge.ICBCBank" target="com.laver.design.pattren.structural.bridge.Bank">
+                  <point x="0.0" y="-38.5" />
+                  <point x="523.0" y="131.0" />
+                  <point x="462.5" y="131.0" />
+                  <point x="50.5" y="50.5" />
+                </edge>
+                <edge source="com.laver.design.pattren.structural.bridge.SavingAccount" target="com.laver.design.pattren.structural.bridge.Account">
+                  <point x="0.0" y="-38.0" />
+                  <point x="1.5" y="123.0" />
+                  <point x="-60.75" y="123.0" />
+                  <point x="52.25" y="38.0" />
+                </edge>
+              </edges>
+              <settings layout="Hierarchic Group" zoom="1.0" x="-171.0" y="142.0" />
+              <SelectedNodes />
+              <Categories>
+                <Category>Fields</Category>
+                <Category>Constructors</Category>
+                <Category>Methods</Category>
+                <Category>Properties</Category>
+                <Category>Inner Classes</Category>
+              </Categories>
+              <SCOPE>All</SCOPE>
+              <VISIBILITY>private</VISIBILITY>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/laver/design/pattren/structural/composite/CourseCatalog.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="229">
+              <caret line="16" column="16" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#392#393#0" expanded="true" />
+                <element signature="e#435#436#0" expanded="true" />
+                <element signature="e#513#514#0" expanded="true" />
+                <element signature="e#567#568#0" expanded="true" />
+                <element signature="e#510#511#0" expanded="true" />
+                <element signature="e#555#556#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Enum" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -109,12 +288,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/laver/design/pattren/creational/singleton/LazyDoubleCheckSingleton.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/laver/design/pattren/creational/singleton/StaticInnerClassSingleton.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/laver/design/pattren/creational/singleton/LazySingleton.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/laver/design/pattren/creational/singleton/EnumInstance.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/com/laver/design/pattren/creational/singleton/ContainerSingleton.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/laver/design/pattren/creational/singleton/Test.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/laver/design/pattren/creational/singleton/ThreadLoadlInstance.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/laver/design/pattren/creational/singleton/ThreadLocalInstance.java" />
@@ -127,7 +300,6 @@
         <option value="$PROJECT_DIR$/src/main/java/com/laver/design/pattren/creational/prototype/clone/Pig.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/laver/design/pattren/creational/singleton/HungrySingleton.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/laver/design/pattren/creational/prototype/clone/Test.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/laver/design/pattren/structural/bridge/Bank.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/laver/design/pattren/structural/decorator/v1/Battercake.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/laver/design/pattren/structural/decorator/v1/Test.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/laver/design/pattren/structural/decorator/v1/BattercakeWithEgg.java" />
@@ -160,6 +332,13 @@
         <option value="$PROJECT_DIR$/src/main/java/com/laver/design/pattren/structural/composite/Test.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/laver/design/pattren/structural/composite/CatalogComponent.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/laver/design/pattren/structural/composite/CourseCatalog.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/laver/design/pattren/structural/bridge/Account.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/laver/design/pattren/structural/bridge/DepositAccount.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/laver/design/pattren/structural/bridge/SavingAccount.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/laver/design/pattren/structural/bridge/Bank.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/laver/design/pattren/structural/bridge/BACBank.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/laver/design/pattren/structural/bridge/ICBCBank.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/laver/design/pattren/structural/bridge/Test.java" />
       </list>
     </option>
   </component>
@@ -182,7 +361,7 @@
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="214" />
-    <option name="y" value="199" />
+    <option name="y" value="39" />
     <option name="width" value="1296" />
     <option name="height" value="1000" />
   </component>
@@ -281,7 +460,7 @@
               <item name="design" type="462c0819:PsiDirectoryNode" />
               <item name="pattren" type="462c0819:PsiDirectoryNode" />
               <item name="structural" type="462c0819:PsiDirectoryNode" />
-              <item name="composite" type="462c0819:PsiDirectoryNode" />
+              <item name="bridge" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -294,7 +473,7 @@
     <property name="SearchEverywhereHistoryKey" value="resultset&#9;PSI&#9;JAVA://java.sql.ResultSet" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544535365410" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544541237103" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
@@ -304,11 +483,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.laver.design.pattren.structural.bridge" />
       <recent name="com.laver.design.pattren.structural.adapter.objectadapter" />
       <recent name="com.laver.design.pattren.structural.decorator.v2" />
       <recent name="com.laver.design.pattren.creational.prototype.clone" />
       <recent name="com.laver.design.pattren.creational.prototype.abstractprototype" />
-      <recent name="com.laver.design.pattren.creational.singleton" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\L\Desktop\IdeaProject\design_pattern\src\main\java\com\laver\design\pattren" />
@@ -327,20 +506,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Test">
+  <component name="RunManager" selected="Application.Test (1)">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.laver.design.pattren.creational.prototype.clone.Test" />
+    <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.laver.design.pattren.structural.bridge.Test" />
       <module name="design_pattern" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.laver.design.pattren.creational.prototype.clone.*" />
+          <option name="PATTERN" value="com.laver.design.pattren.structural.bridge.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -434,19 +613,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Test (2)" />
       <item itemvalue="Application.Test (3)" />
       <item itemvalue="Application.Test (4)" />
       <item itemvalue="Application.Test (5)" />
       <item itemvalue="Application.Test" />
+      <item itemvalue="Application.Test (1)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test (1)" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.Test (5)" />
         <item itemvalue="Application.Test (4)" />
         <item itemvalue="Application.Test (3)" />
-        <item itemvalue="Application.Test (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -471,12 +650,12 @@
       <workItem from="1544252287808" duration="599000" />
       <workItem from="1544368408945" duration="2292000" />
       <workItem from="1544440485007" duration="6820000" />
-      <workItem from="1544528092123" duration="2257000" />
+      <workItem from="1544528092123" duration="4682000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="49786000" />
+    <option name="totallyTimeSpent" value="52211000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -496,7 +675,7 @@
       <window_info anchor="bottom" id="Terminal" order="2" weight="0.29967427" />
       <window_info anchor="bottom" id="Message" order="3" />
       <window_info anchor="bottom" id="Find" order="4" weight="0.32899022" />
-      <window_info anchor="bottom" id="Run" order="5" visible="true" weight="0.19869708" />
+      <window_info anchor="bottom" id="Run" order="5" visible="true" weight="0.3257329" />
       <window_info anchor="bottom" id="Debug" order="6" weight="0.099891424" />
       <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
