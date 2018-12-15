@@ -1,4 +1,4 @@
-package com.laver.design.pattren.behavioral.templatemethod;
+package com.laver.design.behavioral.templatemethod;
 
 public class FECourse extends ACourse {
     private boolean needWriteArticleFlag = false;
