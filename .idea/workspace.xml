@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="5546b1b4-0d58-4a5b-b297-2b37c8fc167b" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/../es_book/src/main/java/com/laver/es_book/MyConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../medical/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../medical/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../medical/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../medical/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../test/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../test/.idea/workspace.xml" afterDir="false" />
@@ -21,11 +22,11 @@
     <session id="-1404032481">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="20" />
+          <entry key="project.closed" value="21" />
           <entry key="project.open.time.1" value="2" />
           <entry key="project.open.time.10" value="2" />
           <entry key="project.open.time.11" value="3" />
-          <entry key="project.open.time.12" value="1" />
+          <entry key="project.open.time.12" value="2" />
           <entry key="project.open.time.13" value="2" />
           <entry key="project.open.time.14" value="2" />
           <entry key="project.open.time.2" value="4" />
@@ -33,7 +34,7 @@
           <entry key="project.open.time.3" value="2" />
           <entry key="project.open.time.4" value="1" />
           <entry key="project.open.time.7" value="1" />
-          <entry key="project.opened" value="21" />
+          <entry key="project.opened" value="22" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -51,11 +52,12 @@
           <entry key="iml" value="1" />
           <entry key="interfacesegregation" value="1" />
           <entry key="iterator" value="1" />
-          <entry key="java" value="226" />
+          <entry key="java" value="233" />
           <entry key="observer" value="1" />
           <entry key="openclose" value="1" />
           <entry key="prototype" value="1" />
           <entry key="singleresponsibility" value="1" />
+          <entry key="state" value="1" />
           <entry key="v1" value="2" />
           <entry key="v2" value="2" />
           <entry key="vistor" value="1" />
@@ -65,22 +67,22 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="IDEA_MODULE" value="1" />
-          <entry key="JAVA" value="226" />
-          <entry key="UML" value="22" />
+          <entry key="JAVA" value="233" />
+          <entry key="UML" value="23" />
           <entry key="XML" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="22" />
-          <entry key="java" value="14043" />
+          <entry key="java" value="14622" />
           <entry key="txt" value="6" />
           <entry key="xml" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="14043" />
+          <entry key="JAVA" value="14622" />
           <entry key="PLAIN_TEXT" value="28" />
           <entry key="XML" value="6" />
         </counts>
@@ -90,85 +92,160 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/laver/design/behavioral/chainofresponsibility/ArticleApprover.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/laver/design/behavioral/vistor/Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+            <state relative-caret-position="513">
+              <caret line="19" column="21" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/laver/design/behavioral/chainofresponsibility/VideoApprover.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/laver/design/behavioral/state/CourseVideoState.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="351">
-              <caret line="13" column="68" selection-start-line="13" selection-start-column="68" selection-end-line="13" selection-end-column="68" />
+            <state relative-caret-position="54">
+              <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/laver/design/behavioral/chainofresponsibility/Test.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/laver/design/behavioral/state/CourseVideoContext.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/laver/design/behavioral/vistor/CodingCourse.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="432">
-              <caret line="16" column="25" lean-forward="true" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
+            <state relative-caret-position="243">
+              <caret line="21" column="37" lean-forward="true" selection-start-line="21" selection-start-column="37" selection-end-line="21" selection-end-column="37" />
               <folding>
-                <element signature="e#143#144#0" expanded="true" />
-                <element signature="e#171#172#0" expanded="true" />
-                <element signature="e#210#211#0" expanded="true" />
-                <element signature="e#244#245#0" expanded="true" />
-                <element signature="e#298#299#0" expanded="true" />
-                <element signature="e#333#334#0" expanded="true" />
+                <element signature="e#447#448#0" expanded="true" />
+                <element signature="e#486#487#0" expanded="true" />
+                <element signature="e#701#702#0" expanded="true" />
+                <element signature="e#720#721#0" expanded="true" />
+                <element signature="e#770#771#0" expanded="true" />
+                <element signature="e#815#816#0" expanded="true" />
+                <element signature="e#836#837#0" expanded="true" />
+                <element signature="e#882#883#0" expanded="true" />
+                <element signature="e#927#928#0" expanded="true" />
+                <element signature="e#972#973#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="uml://JAVA/com.laver.design.behavioral.vistor">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/laver/design/behavioral/state/PlayState.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="319">
+              <caret line="13" column="13" lean-forward="true" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+              <folding>
+                <element signature="e#132#133#0" expanded="true" />
+                <element signature="e#168#169#0" expanded="true" />
+                <element signature="e#227#228#0" expanded="true" />
+                <element signature="e#247#248#0" expanded="true" />
+                <element signature="e#360#361#0" expanded="true" />
+                <element signature="e#452#453#0" expanded="true" />
+                <element signature="e#493#494#0" expanded="true" />
+                <element signature="e#584#585#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/laver/design/behavioral/state/SpeedState.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="177">
+              <caret line="11" column="27" lean-forward="true" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
+              <folding>
+                <element signature="e#134#135#0" expanded="true" />
+                <element signature="e#226#227#0" expanded="true" />
+                <element signature="e#267#268#0" expanded="true" />
+                <element signature="e#321#322#0" expanded="true" />
+                <element signature="e#366#367#0" expanded="true" />
+                <element signature="e#458#459#0" expanded="true" />
+                <element signature="e#498#499#0" expanded="true" />
+                <element signature="e#589#590#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/laver/design/behavioral/state/PauseState.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="459">
+              <caret line="17" column="33" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
+              <folding>
+                <element signature="e#139#140#0" expanded="true" />
+                <element signature="e#231#232#0" expanded="true" />
+                <element signature="e#499#500#0" expanded="true" />
+                <element signature="e#590#591#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/laver/design/behavioral/state/StopState.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="11" column="44" selection-start-line="11" selection-start-column="44" selection-end-line="11" selection-end-column="44" />
+              <folding>
+                <element signature="e#138#139#0" expanded="true" />
+                <element signature="e#230#231#0" expanded="true" />
+                <element signature="e#271#272#0" expanded="true" />
+                <element signature="e#331#332#0" expanded="true" />
+                <element signature="e#351#352#0" expanded="true" />
+                <element signature="e#395#396#0" expanded="true" />
+                <element signature="e#435#436#0" expanded="true" />
+                <element signature="e#489#490#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="uml://JAVA/com.laver.design.behavioral.state">
           <provider selected="true" editor-type-id="UmlEditorProvider">
             <state>
               <ID>JAVA</ID>
-              <OriginalElement>com.laver.design.behavioral.vistor</OriginalElement>
+              <OriginalElement>com.laver.design.behavioral.state</OriginalElement>
               <nodes>
-                <node x="0.0" y="139.0">com.laver.design.behavioral.vistor.FreeCourse</node>
-                <node x="0.0" y="249.0">com.laver.design.behavioral.vistor.IVisitor</node>
-                <node x="204.0" y="127.0">com.laver.design.behavioral.vistor.CodingCourse</node>
-                <node x="0.0" y="375.0">com.laver.design.behavioral.vistor.Visitor</node>
-                <node x="102.0" y="0.0">com.laver.design.behavioral.vistor.Course</node>
-                <node x="255.0" y="249.0">com.laver.design.behavioral.vistor.Test</node>
+                <node x="0.0" y="196.0">com.laver.design.behavioral.state.SpeedState</node>
+                <node x="483.0" y="196.0">com.laver.design.behavioral.state.PauseState</node>
+                <node x="161.0" y="196.0">com.laver.design.behavioral.state.PlayState</node>
+                <node x="322.0" y="196.0">com.laver.design.behavioral.state.StopState</node>
+                <node x="166.0" y="0.0">com.laver.design.behavioral.state.CourseVideoState</node>
+                <node x="193.0" y="364.0">com.laver.design.behavioral.state.CourseVideoContext</node>
               </nodes>
               <notes />
               <edges>
-                <edge source="com.laver.design.behavioral.vistor.CodingCourse" target="com.laver.design.behavioral.vistor.Course">
-                  <point x="0.0" y="-38.5" />
-                  <point x="296.0" y="102.0" />
-                  <point x="240.0" y="102.0" />
-                  <point x="46.0" y="38.5" />
+                <edge source="com.laver.design.behavioral.state.StopState" target="com.laver.design.behavioral.state.CourseVideoState">
+                  <point x="0.0" y="-61.0" />
+                  <point x="392.5" y="171.0" />
+                  <point x="348.5" y="171.0" />
+                  <point x="36.5" y="73.0" />
                 </edge>
-                <edge source="com.laver.design.behavioral.vistor.Visitor" target="com.laver.design.behavioral.vistor.IVisitor">
-                  <point x="0.0" y="-38.0" />
-                  <point x="0.0" y="38.0" />
+                <edge source="com.laver.design.behavioral.state.PauseState" target="com.laver.design.behavioral.state.CourseVideoState">
+                  <point x="0.0" y="-61.0" />
+                  <point x="553.5" y="171.0" />
+                  <point x="421.5" y="171.0" />
+                  <point x="109.5" y="73.0" />
                 </edge>
-                <edge source="com.laver.design.behavioral.vistor.FreeCourse" target="com.laver.design.behavioral.vistor.Course">
-                  <point x="0.0" y="-26.5" />
-                  <point x="92.0" y="102.0" />
-                  <point x="148.0" y="102.0" />
-                  <point x="-46.0" y="38.5" />
+                <edge source="com.laver.design.behavioral.state.PlayState" target="com.laver.design.behavioral.state.CourseVideoState">
+                  <point x="0.0" y="-61.0" />
+                  <point x="231.5" y="171.0" />
+                  <point x="275.5" y="171.0" />
+                  <point x="-36.5" y="73.0" />
+                </edge>
+                <edge source="com.laver.design.behavioral.state.SpeedState" target="com.laver.design.behavioral.state.CourseVideoState">
+                  <point x="0.0" y="-61.0" />
+                  <point x="70.5" y="171.0" />
+                  <point x="202.5" y="171.0" />
+                  <point x="-109.5" y="73.0" />
                 </edge>
               </edges>
-              <settings layout="Hierarchic Group" zoom="1.0" x="-269.0" y="97.0" />
+              <settings layout="Hierarchic Group" zoom="1.0" x="-154.0" y="271.0" />
               <SelectedNodes>
-                <node>com.laver.design.behavioral.vistor.CodingCourse</node>
+                <node>com.laver.design.behavioral.state.CourseVideoContext</node>
               </SelectedNodes>
               <Categories>
                 <Category>Fields</Category>
@@ -183,51 +260,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/laver/design/behavioral/vistor/Course.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="351">
-              <caret line="13" column="48" selection-start-line="13" selection-start-column="48" selection-end-line="13" selection-end-column="48" />
-              <folding>
-                <element signature="e#121#122#0" expanded="true" />
-                <element signature="e#148#149#0" expanded="true" />
-                <element signature="e#188#189#0" expanded="true" />
-                <element signature="e#220#221#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/laver/design/behavioral/vistor/FreeCourse.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/laver/design/behavioral/state/Test.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="135">
-              <caret line="5" selection-start-line="5" selection-end-line="6" />
-              <folding>
-                <element signature="e#172#173#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/laver/design/behavioral/vistor/Test.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="54">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/laver/design/behavioral/vistor/Visitor.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="243">
-              <caret line="9" column="44" selection-start-line="9" selection-start-column="44" selection-end-line="9" selection-end-column="44" />
-              <folding>
-                <element signature="e#147#148#0" expanded="true" />
-                <element signature="e#183#184#0" expanded="true" />
-              </folding>
+              <caret line="5" column="62" selection-start-line="5" selection-start-column="62" selection-end-line="5" selection-end-column="62" />
             </state>
           </provider>
         </entry>
@@ -235,8 +272,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/laver/design/behavioral/vistor/IVisitor.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="6" column="42" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
+            <state relative-caret-position="54">
+              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -255,6 +292,7 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>lazyDoubleCheckSingleton</find>
+      <find>setCourseVideoContext</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -271,14 +309,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/laver/design/behavioral/iterator/CourseAggregate.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/laver/design/behavioral/iterator/CourseIteratorImpl.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/laver/design/behavioral/iterator/CourseAggregateImpl.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/laver/design/behavioral/iterator/Test.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/laver/design/behavioral/strategy/PromotionStrategy.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/laver/design/behavioral/strategy/ManjianPromotionStrategy.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/laver/design/behavioral/strategy/FanxianPromotionStrategy.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/laver/design/behavioral/strategy/FanXianPromotionStrategy.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/laver/design/behavioral/strategy/LiJianPromotionStrategy.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/laver/design/behavioral/strategy/ManJianPromotionStrategy.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/laver/design/behavioral/strategy/PromotionActivity.java" />
@@ -314,7 +344,6 @@
         <option value="$PROJECT_DIR$/src/main/java/com/laver/design/behavioral/chainofresponsibility/ArticleApprover.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/laver/design/behavioral/chainofresponsibility/VideoApprover.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/laver/design/behavioral/chainofresponsibility/Test.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/laver/design/behavioral/vistor/Test.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/laver/design/behavioral/vistor/Vistor.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/laver/design/behavioral/vistor/IVistor.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/laver/design/behavioral/vistor/Course.java" />
@@ -322,6 +351,15 @@
         <option value="$PROJECT_DIR$/src/main/java/com/laver/design/behavioral/vistor/Visitor.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/laver/design/behavioral/vistor/FreeCourse.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/laver/design/behavioral/vistor/CodingCourse.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/laver/design/behavioral/vistor/Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/laver/design/behavioral/state/Course.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/laver/design/behavioral/state/CourseVideoState.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/laver/design/behavioral/state/PlayState.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/laver/design/behavioral/state/PauseState.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/laver/design/behavioral/state/SpeedState.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/laver/design/behavioral/state/StopState.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/laver/design/behavioral/state/CourseVideoContext.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/laver/design/behavioral/state/Test.java" />
       </list>
     </option>
   </component>
@@ -356,7 +394,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -430,20 +467,21 @@
               <item name="laver" type="462c0819:PsiDirectoryNode" />
               <item name="design" type="462c0819:PsiDirectoryNode" />
               <item name="behavioral" type="462c0819:PsiDirectoryNode" />
-              <item name="vistor" type="462c0819:PsiDirectoryNode" />
+              <item name="state" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="SearchEverywhereHistoryKey" value="resultset&#9;PSI&#9;JAVA://java.sql.ResultSet" />
+    <property name="SearchEverywhereHistoryKey" value="pause&#9;FILE&#9;file://C:/Users/L/Desktop/IdeaProject/design_pattern/src/main/java/com/laver/design/behavioral/state/PauseState.java&#10;resultset&#9;PSI&#9;JAVA://java.sql.ResultSet" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545222460413" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545307920823" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
@@ -453,11 +491,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.laver.design.behavioral.state" />
       <recent name="com.laver.design.behavioral.vistor" />
       <recent name="com.laver.design.behavioral.chainofresponsibility" />
       <recent name="com.laver.design.behavioral.mediator" />
       <recent name="com.laver.design.behavioral.command" />
-      <recent name="com.laver.design.behavioral.interpreter" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\L\Desktop\IdeaProject\design_pattern\src\main\java\com\laver\design\pattren" />
@@ -476,7 +514,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Test (3)">
+  <component name="RunManager" selected="Application.Test (4)">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -525,13 +563,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test (6)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.laver.design.behavioral.observer.Test" />
+    <configuration name="Test (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.laver.design.behavioral.state.Test" />
       <module name="design_pattern" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.laver.design.behavioral.observer.*" />
+          <option name="PATTERN" value="com.laver.design.behavioral.state.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -583,19 +621,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Test (6)" />
       <item itemvalue="Application.Test" />
       <item itemvalue="Application.Test (1)" />
       <item itemvalue="Application.Test (2)" />
       <item itemvalue="Application.Test (3)" />
+      <item itemvalue="Application.Test (4)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test (4)" />
         <item itemvalue="Application.Test (3)" />
         <item itemvalue="Application.Test (2)" />
         <item itemvalue="Application.Test (1)" />
         <item itemvalue="Application.Test" />
-        <item itemvalue="Application.Test (6)" />
       </list>
     </recent_temporary>
   </component>
@@ -629,12 +667,13 @@
       <workItem from="1544959467811" duration="24000" />
       <workItem from="1545045681761" duration="4870000" />
       <workItem from="1545133129225" duration="3296000" />
-      <workItem from="1545219861303" duration="2590000" />
+      <workItem from="1545219861303" duration="3043000" />
+      <workItem from="1545306228480" duration="1656000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="78867000" />
+    <option name="totallyTimeSpent" value="80976000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -655,15 +694,15 @@
       <window_info id="UI Designer" order="3" />
       <window_info id="Image Layers" order="4" />
       <window_info id="Favorites" order="5" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="6" visible="true" weight="0.3160981" />
+      <window_info active="true" content_ui="combo" id="Project" order="6" visible="true" weight="0.3192964" />
       <window_info id="Structure" order="7" side_tool="true" weight="0.25" />
       <window_info id="Web" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Event Log" order="0" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="1" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="2" visible="true" weight="0.27687296" />
+      <window_info anchor="bottom" id="Terminal" order="2" weight="0.27687296" />
       <window_info anchor="bottom" id="Message" order="3" />
       <window_info anchor="bottom" id="Find" order="4" weight="0.32899022" />
-      <window_info anchor="bottom" id="Run" order="5" weight="0.29641694" />
+      <window_info anchor="bottom" id="Run" order="5" visible="true" weight="0.30401736" />
       <window_info anchor="bottom" id="Debug" order="6" weight="0.099891424" />
       <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
@@ -704,58 +743,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/laver/design/behavioral/iterator/CourseAggregate.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/laver/design/behavioral/iterator/CourseAggregateImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="25" column="44" selection-start-line="25" selection-start-column="44" selection-end-line="25" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/laver/design/behavioral/iterator/CourseIteratorImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/laver/design/behavioral/iterator/CourseIterator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="4" column="27" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/design_pattern.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="918">
-          <caret line="34" selection-start-line="34" selection-end-line="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/laver/design/behavioral/iterator/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="521">
-          <caret line="31" column="36" selection-start-line="31" selection-start-column="36" selection-end-line="31" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/laver/design/behavioral/strategy/PromotionStrategy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="81">
-          <caret line="3" column="23" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/laver/design/behavioral/strategy/FanXianPromotionStrategy.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
@@ -968,11 +955,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="297">
           <caret line="14" column="23" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#222#223#0" expanded="true" />
-            <element signature="e#262#263#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -987,10 +969,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="243">
           <caret line="14" column="43" selection-start-line="14" selection-start-column="43" selection-end-line="14" selection-end-column="43" />
-          <folding>
-            <element signature="e#121#122#0" expanded="true" />
-            <element signature="e#148#149#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1036,83 +1014,6 @@
           <folding>
             <element signature="e#173#174#0" expanded="true" />
             <element signature="e#213#214#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/laver/design/behavioral/chainofresponsibility/ArticleApprover.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/laver/design/behavioral/chainofresponsibility/VideoApprover.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="13" column="68" selection-start-line="13" selection-start-column="68" selection-end-line="13" selection-end-column="68" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/laver/design/behavioral/chainofresponsibility/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/laver/design/behavioral/vistor/Course.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="13" column="48" selection-start-line="13" selection-start-column="48" selection-end-line="13" selection-end-column="48" />
-          <folding>
-            <element signature="e#121#122#0" expanded="true" />
-            <element signature="e#148#149#0" expanded="true" />
-            <element signature="e#188#189#0" expanded="true" />
-            <element signature="e#220#221#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/laver/design/behavioral/vistor/IVisitor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="6" column="42" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/laver/design/behavioral/vistor/Visitor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="9" column="44" selection-start-line="9" selection-start-column="44" selection-end-line="9" selection-end-column="44" />
-          <folding>
-            <element signature="e#147#148#0" expanded="true" />
-            <element signature="e#183#184#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/laver/design/behavioral/vistor/FreeCourse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="5" selection-start-line="5" selection-end-line="6" />
-          <folding>
-            <element signature="e#172#173#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/laver/design/behavioral/vistor/CodingCourse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="16" column="25" lean-forward="true" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
-          <folding>
-            <element signature="e#143#144#0" expanded="true" />
-            <element signature="e#171#172#0" expanded="true" />
-            <element signature="e#210#211#0" expanded="true" />
-            <element signature="e#244#245#0" expanded="true" />
-            <element signature="e#298#299#0" expanded="true" />
-            <element signature="e#333#334#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1165,10 +1066,230 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/laver/design/behavioral/vistor/Test.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/laver/design/behavioral/chainofresponsibility/ArticleApprover.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/laver/design/behavioral/chainofresponsibility/VideoApprover.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="13" column="68" selection-start-line="13" selection-start-column="68" selection-end-line="13" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/laver/design/behavioral/chainofresponsibility/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/laver/design/behavioral/vistor/CodingCourse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="15" column="16" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
+          <folding>
+            <element signature="e#298#299#0" expanded="true" />
+            <element signature="e#333#334#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/laver/design/behavioral/vistor/Course.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="13" column="25" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/laver/design/behavioral/vistor/FreeCourse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" selection-start-line="5" selection-end-line="6" />
+          <folding>
+            <element signature="e#176#177#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/laver/design/behavioral/vistor/Visitor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+          <folding>
+            <element signature="e#147#148#0" expanded="true" />
+            <element signature="e#218#219#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/laver/design/behavioral/vistor/IVisitor.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="54">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/laver/design/behavioral/vistor/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="19" column="21" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.laver.design.behavioral.state">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.laver.design.behavioral.state</OriginalElement>
+          <nodes>
+            <node x="0.0" y="196.0">com.laver.design.behavioral.state.SpeedState</node>
+            <node x="483.0" y="196.0">com.laver.design.behavioral.state.PauseState</node>
+            <node x="161.0" y="196.0">com.laver.design.behavioral.state.PlayState</node>
+            <node x="322.0" y="196.0">com.laver.design.behavioral.state.StopState</node>
+            <node x="166.0" y="0.0">com.laver.design.behavioral.state.CourseVideoState</node>
+            <node x="193.0" y="364.0">com.laver.design.behavioral.state.CourseVideoContext</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="com.laver.design.behavioral.state.StopState" target="com.laver.design.behavioral.state.CourseVideoState">
+              <point x="0.0" y="-61.0" />
+              <point x="392.5" y="171.0" />
+              <point x="348.5" y="171.0" />
+              <point x="36.5" y="73.0" />
+            </edge>
+            <edge source="com.laver.design.behavioral.state.PauseState" target="com.laver.design.behavioral.state.CourseVideoState">
+              <point x="0.0" y="-61.0" />
+              <point x="553.5" y="171.0" />
+              <point x="421.5" y="171.0" />
+              <point x="109.5" y="73.0" />
+            </edge>
+            <edge source="com.laver.design.behavioral.state.PlayState" target="com.laver.design.behavioral.state.CourseVideoState">
+              <point x="0.0" y="-61.0" />
+              <point x="231.5" y="171.0" />
+              <point x="275.5" y="171.0" />
+              <point x="-36.5" y="73.0" />
+            </edge>
+            <edge source="com.laver.design.behavioral.state.SpeedState" target="com.laver.design.behavioral.state.CourseVideoState">
+              <point x="0.0" y="-61.0" />
+              <point x="70.5" y="171.0" />
+              <point x="202.5" y="171.0" />
+              <point x="-109.5" y="73.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="-154.0" y="271.0" />
+          <SelectedNodes>
+            <node>com.laver.design.behavioral.state.CourseVideoContext</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+            <Category>Properties</Category>
+            <Category>Inner Classes</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/laver/design/behavioral/state/PauseState.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="17" column="33" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
+          <folding>
+            <element signature="e#139#140#0" expanded="true" />
+            <element signature="e#231#232#0" expanded="true" />
+            <element signature="e#499#500#0" expanded="true" />
+            <element signature="e#590#591#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/laver/design/behavioral/state/PlayState.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="13" column="13" lean-forward="true" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+          <folding>
+            <element signature="e#132#133#0" expanded="true" />
+            <element signature="e#168#169#0" expanded="true" />
+            <element signature="e#227#228#0" expanded="true" />
+            <element signature="e#247#248#0" expanded="true" />
+            <element signature="e#360#361#0" expanded="true" />
+            <element signature="e#452#453#0" expanded="true" />
+            <element signature="e#493#494#0" expanded="true" />
+            <element signature="e#584#585#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/laver/design/behavioral/state/SpeedState.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="11" column="27" lean-forward="true" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
+          <folding>
+            <element signature="e#134#135#0" expanded="true" />
+            <element signature="e#226#227#0" expanded="true" />
+            <element signature="e#267#268#0" expanded="true" />
+            <element signature="e#321#322#0" expanded="true" />
+            <element signature="e#366#367#0" expanded="true" />
+            <element signature="e#458#459#0" expanded="true" />
+            <element signature="e#498#499#0" expanded="true" />
+            <element signature="e#589#590#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/laver/design/behavioral/state/StopState.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="11" column="44" selection-start-line="11" selection-start-column="44" selection-end-line="11" selection-end-column="44" />
+          <folding>
+            <element signature="e#138#139#0" expanded="true" />
+            <element signature="e#230#231#0" expanded="true" />
+            <element signature="e#271#272#0" expanded="true" />
+            <element signature="e#331#332#0" expanded="true" />
+            <element signature="e#351#352#0" expanded="true" />
+            <element signature="e#395#396#0" expanded="true" />
+            <element signature="e#435#436#0" expanded="true" />
+            <element signature="e#489#490#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/laver/design/behavioral/state/CourseVideoContext.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="21" column="37" lean-forward="true" selection-start-line="21" selection-start-column="37" selection-end-line="21" selection-end-column="37" />
+          <folding>
+            <element signature="e#447#448#0" expanded="true" />
+            <element signature="e#486#487#0" expanded="true" />
+            <element signature="e#701#702#0" expanded="true" />
+            <element signature="e#720#721#0" expanded="true" />
+            <element signature="e#770#771#0" expanded="true" />
+            <element signature="e#815#816#0" expanded="true" />
+            <element signature="e#836#837#0" expanded="true" />
+            <element signature="e#882#883#0" expanded="true" />
+            <element signature="e#927#928#0" expanded="true" />
+            <element signature="e#972#973#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/laver/design/behavioral/state/CourseVideoState.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/laver/design/behavioral/state/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" column="62" selection-start-line="5" selection-start-column="62" selection-end-line="5" selection-end-column="62" />
         </state>
       </provider>
     </entry>
